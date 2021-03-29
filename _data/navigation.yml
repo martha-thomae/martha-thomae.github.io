@@ -1,6 +1,6 @@
 - name: Home
   link: /
-- name: About
+- name: Bio
   link: /about.html
 - name: CV
   link: cv/CV_July_2021.pdf
