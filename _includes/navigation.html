@@ -1,7 +1,7 @@
 <nav>
     <ul>
-        <li><a href="/">Home</a></li>
-        <li><a href="/about.html">About</a></li>
+        <li><a href="/" {% if page.url == "/" %}style="color: blue;"{% endif %}>Home</a></li>
+        <li><a href="/about.html" {% if page.url == "/about.html" %}style="color: blue;"{% endif %}>About</a></li>
         <li><a href="cv/CV_July_2021.pdf">CV</a></li>
         <li><a href="/works">Works</a></li>
         <li><a href="/miscellaneous">Miscellaneous</a></li>
