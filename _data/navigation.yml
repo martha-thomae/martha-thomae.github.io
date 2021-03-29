@@ -1,0 +1,14 @@
+- name: Home
+  link: /
+- name: About
+  link: /about.html
+- name: CV
+  link: cv/CV_July_2021.pdf
+- name: Presentations
+  link: /presentations
+- name: Publications
+  link: /publications
+- name: Guatemalan Project
+  link: /guatemala
+- name: Miscellaneous
+  link: /miscellaneous
