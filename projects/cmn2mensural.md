@@ -1,5 +1,10 @@
 ---
-layout: default
-title: Guatemalan Project
+layout: projects
+title: CMN to Mensural MEI Translator
+heading: Translation of annotated modern transcriptions of mensural pieces back into their original notation
 ---
-Coming soon!
+## Description
+
+## Related Talks
+
+### Summary of talks:

@@ -1,5 +1,12 @@
 ---
-layout: default
-title: Guatemalan Project
+layout: projects
+title: Automatic Scoring up and Mensural Notation Editor
+heading: Automatic scoring up of mensural voices & mensural notation editor
 ---
-Coming soon!
+## Description
+
+## Related Talks
+
+### Summary of talks:
+
+## Related Publications
