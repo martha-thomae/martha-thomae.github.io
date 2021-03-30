@@ -5,8 +5,8 @@ heading: Guatemalan choirbooks digitization project
 ---
 ## Description
 
-## Related Talks
+## Related talks
 
 ### Summary of talks:
 
-## Related Publications
+## Related publications

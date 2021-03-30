@@ -5,6 +5,6 @@ heading: Translation of annotated modern transcriptions of mensural pieces back 
 ---
 ## Description
 
-## Related Talks
+## Related talks
 
 ### Summary of talks:

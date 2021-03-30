@@ -5,8 +5,8 @@ heading: Automatic scoring up of mensural voices & mensural notation editor
 ---
 ## Description
 
-## Related Talks
+## Related talks
 
 ### Summary of talks:
 
-## Related Publications
+## Related publications
