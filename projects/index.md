@@ -11,7 +11,8 @@ title: projects
 
 These invited talks summarize the work on projects 1 to 3:
 
-- “Digital Infrastructures for Mensural Music Using MEI.” Invited lecture presented at the Kolloquium Musikwissenschaft, Freiburger Forschungs- und Lehrzentrum Musik (FZM), Freiburg, Germany, January 26, 2021.
-- “MEI for Encoding Mensural Music – A Survey.” Invited lecture presented at the Digital Humanities in Early Music Research I Series – Session II: Early Music Databases and Encoding, Prague, Czech Republic (online), June 22, 2020.
+{% for item in site.data.talksSurvey %}
+- {{ item.name }} [slides]({{ item.link }})
+{% endfor %}
 
 The most complete version of these presentations can be found [here](/assets/slides/Freiburg_Music_Research_Colloquium - compressed.pdf).

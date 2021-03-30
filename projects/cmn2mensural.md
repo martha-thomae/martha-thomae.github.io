@@ -6,5 +6,8 @@ heading: Translation of annotated modern transcriptions of mensural pieces back 
 ## Description
 
 ## Related talks
+{% for item in site.data.talksMensuraltrans %}
+- {{ item.name }} [slides]({{ item.link }})
+{% endfor %}
 
 ### Summary of talks:
