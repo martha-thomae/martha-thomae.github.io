@@ -10,7 +10,7 @@ My main projects involve retrieving the semantics of mensural music and present 
 
 ## Related talks:
 {% for item in site.data.talksSurvey %}
-- {{ item.name }} [slides](/)
+- {{ item.name }} [slides]({{ item.link }})
 {% endfor %}
 
 The following entries organize my publications and talks according to their topics.
@@ -69,4 +69,4 @@ Different slide presentations focus on different aspects of the project. Some ta
 - The **scoring up** (or interpretation of mensural notation) was indeed done with the *Scoring-up Tool*, but through the *Measuring Polyphony editor (MP-editor)*. The MP-editor is an online mensural notation editor that includes the scoring-up functionality and allows for editorial corrections.
 
 ## Related publications
-Thomae, Martha E. “The Guatemalan Choirbooks: Facilitating Preservation, Performance, and Study of the Colonial Repertoire.” In Christian Sacred Music in the Americas, edited by Andrew Shenton and Joanna Smolko. New York, Rowman & Littlefield, 2021. [PDF (as published in B&W)](/)
+Thomae, Martha E. “The Guatemalan Choirbooks: Facilitating Preservation, Performance, and Study of the Colonial Repertoire.” In Christian Sacred Music in the Americas, edited by Andrew Shenton and Joanna Smolko. New York, Rowman & Littlefield, 2021. [PDF (as published in B&W)](/assets/papers/ThomaeChapter.pdf)
