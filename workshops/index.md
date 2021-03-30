@@ -15,4 +15,4 @@ The purpose of the following workshops were to teach musicologists (professional
 - “Workshop II: Hands-on MEI Encoding.” Invited shared lecture and hackathon for the Digital Humanities in Early Music Research I Series – Session II: Early Music Databases and Encoding, Prague (online). June 30th, 2020.
 - “Workshop I: Introduction to MEI.” Invited shared lecture for the Digital Humanities in Early Music Research I Series – Session II: Early Music Databases and Encoding, Prague (online). June 24th, 2020
 
-This [set of slides](/assets/slides/MEI General and MEI for Mensural Notation - compressed.pdf) summarizes what was presented during these workshops. It covers the very basics of the encoding MEI (Music Encoding Initiative) format and then it moves into the use of MEI for encoding mensural notation in particular.
+[This set of slides](/assets/slides/MEI General and MEI for Mensural Notation - compressed.pdf) summarizes what was presented during these workshops. It covers the very basics of the encoding MEI (Music Encoding Initiative) format and then it moves into the use of MEI for encoding mensural notation in particular.
