@@ -1,18 +1,73 @@
 ---
 layout: default
-title: projects
+title: publications and talks
 ---
-# Projects
+# Publications and Talks
 
-1. [Guatemalan choirbooks digitization project](guatemala.html)
-2. [Automatic scoring up of mensural voices & mensural notation editor](scoringup.html)
-3. [Translation of annotated modern transcriptions of mensural pieces into their original (mensural) notation](cmn2mensural.html)
-4. [Machine translation applied to OMR](machinetranslation.html)
+My main projects involve retrieving the semantics of mensural music and present them in score layout. Most mensural pieces are written in separate parts rather than in score format. The separate-parts arrangement difficults the visualization of the vertial sonorities (one cannot visualize what notes are being sung at the same time) and relation between the voices. Most of my projects involve the conversion of this separate-parts layout of the original pieces into a score layout. This, implies dealing with the interpretation of the duration of the notes in mensural notation, which is an issue on its own (in triple meter, the duration of the mensural notes depends on the context—notes preceding/following). Therefore, retrieving the semantics of mensural notation is an integral part of presenting the mensural piece in score layout.
 
-These invited talks summarize the work on projects 1 to 3:
+This [set of slides](/assets/slides/Freiburg_Music_Research_Colloquium - compressed.pdf) 
+present a survey of my work on different projects that have been working towards this goal.
 
+## Related talks:
 {% for item in site.data.talksSurvey %}
+- {{ item.name }} [slides](/)
+{% endfor %}
+
+The following entries organize my publications and talks according to their topics.
+
+
+# Automatic scoring up (for mensural notation)
+## Description
+
+## Related talks
+{% for item in site.data.talksScup %}
 - {{ item.name }} [slides]({{ item.link }})
 {% endfor %}
 
-The most complete version of these presentations can be found [here](/assets/slides/Freiburg_Music_Research_Colloquium - compressed.pdf).
+## Related publications
+Thomae, Martha E., Julie E. Cumming, and Ichiro Fujinaga. “The Mensural Scoring-Up Tool.” In Proceedings of the 6th International Workshop on Digital Libraries for Musicology, 9–19. National Library of the Netherlands, The Hague, NL: ACM, 2019. [https://doi.org/10.1145/3358664.3358668](https://doi.org/10.1145/3358664.3358668).
+
+
+# Measuring Polyphony editor (MP-editor)
+## Description
+An online mensural notation editor. My contribution to this editor was the scoring-up functionality. This implied converting my Python script into JavaScript, and introducing functionality to deal with older mensural repertoire (Ars antiqua) among other things.
+
+## Related publications (and talks)
+Desmond, Karen, Andrew Hankinson, Laurent Pugin, Juliette Regimbal, Craig Sapp, and Martha E. Thomae. “Next Steps for Measuring Polyphony: A Prototype Editor for Encoding Mensural Music.” In Proceedings of the Music Encoding Conference, 121–24. Tufts University, Boston, MA: Humanities Commons, 2020. [http://dx.doi.org/10.17613/5k88-9z02](http://dx.doi.org/10.17613/5k88-9z02).
+
+
+# CMN to Mensural MEI Translator
+## Description
+Translation of annotated modern transcriptions of mensural pieces back into their original notation.
+
+## Related talks
+{% for item in site.data.talksMensuraltrans %}
+- {{ item.name }} [slides]({{ item.link }})
+{% endfor %}
+
+
+# Machine translation applied to OMR
+## Description
+
+## Related publications (and talks)
+Thomae, Martha E., Antonio Ríos-Vila, Jorge Calvo-Zaragoza, David Rizo, and José M. Iñesta. “Retrieving Music Semantics from Optical Music Recognition by Machine Translation.” In Proceedings of the Music Encoding Conference, 19–24. Tufts University, Boston, MA: Humanities Commons, 2020. [http://dx.doi.org/10.17613/605z-nt78](http://dx.doi.org/10.17613/605z-nt78).
+
+
+# Guatemalan choirbook digitization project
+## Description
+For more information about this project (including videos of the do-it-yourself book scanner) and the paper with the images in full color, see [Guatemalan Digitization Project](/projects/guatemala.html).
+
+## Related talks
+{% for item in site.data.talksGuate %}
+- {{ item.name }} [slides]({{ item.link }})
+{% endfor %}
+
+Different slide presentations focus on different aspects of the project. Some talks were more focused towards archives and libraries, others towards technologies, others towards future work. [This set of slides](/) contains everything that has been presented on the 'Guatemalan Digitization' topic.
+
+**Notes:**
+- The **OMR process** was indeed conducted at McGill, but it was done with the MuRET (Music Recognition, Encoding, and Transcription) framework developed by David Rizo at the University of Alicante.
+- The **scoring up** (or interpretation of mensural notation) was indeed done with the *Scoring-up Tool*, but through the *Measuring Polyphony editor (MP-editor)*. The MP-editor is an online mensural notation editor that includes the scoring-up functionality and allows for editorial corrections.
+
+## Related publications
+Thomae, Martha E. “The Guatemalan Choirbooks: Facilitating Preservation, Performance, and Study of the Colonial Repertoire.” In Christian Sacred Music in the Americas, edited by Andrew Shenton and Joanna Smolko. New York, Rowman & Littlefield, 2021. [PDF (as published in B&W)](/)

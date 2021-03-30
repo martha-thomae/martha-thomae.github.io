@@ -4,9 +4,11 @@
   link: /bio.html
 - name: CV
   link: /assets/cv/CV_July_2021.pdf
-- name: Projects
+- name: Publications and Talks
   link: /projects
 - name: Workshops
   link: /workshops
+- name: Guatemalan Digitization Project
+  link: /projects/guatemala.html
 - name: Miscellaneous
   link: /miscellaneous
