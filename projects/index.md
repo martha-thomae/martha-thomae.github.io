@@ -65,8 +65,8 @@ For more information about this project (including videos of the do-it-yourself 
 Different slide presentations focus on different aspects of the project. Some talks were more focused towards archives and libraries, others towards technologies, others towards future work. [This set of slides](/) contains everything that has been presented on the 'Guatemalan Digitization' topic.
 
 **Notes:**
-- The **OMR process** was indeed conducted at McGill, but it was done with the MuRET (Music Recognition, Encoding, and Transcription) framework developed by David Rizo at the University of Alicante.
-- The **scoring up** (or interpretation of mensural notation) was indeed done with the *Scoring-up Tool*, but through the *Measuring Polyphony editor (MP-editor)*. The MP-editor is an online mensural notation editor that includes the scoring-up functionality and allows for editorial corrections.
+1. The **OMR process** was indeed conducted at McGill, but it was done with the MuRET (Music Recognition, Encoding, and Transcription) framework developed by David Rizo at the University of Alicante.
+2. The **scoring up** (or interpretation of mensural notation) was indeed done with the *Scoring-up Tool*, but through the *Measuring Polyphony editor (MP-editor)*. The MP-editor is an online mensural notation editor that includes the scoring-up functionality and allows for editorial corrections.
 
 ## Related publications
 Thomae, Martha E. “The Guatemalan Choirbooks: Facilitating Preservation, Performance, and Study of the Colonial Repertoire.” In Christian Sacred Music in the Americas, edited by Andrew Shenton and Joanna Smolko. New York, Rowman & Littlefield, 2021. [PDF (as published in B&W)](/assets/papers/ThomaeChapter.pdf)
