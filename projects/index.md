@@ -10,7 +10,7 @@ My main projects involve retrieving the semantics of mensural music and present 
 
 ## Related talks:
 {% for item in site.data.talksSurvey %}
-- {{ item.name }} [slides]({{ item.link }})
+- {{ item.name }} {% if item.link != '/'%}[slides]({{ item.link }}){% endif %}
 {% endfor %}
 
 The following entries organize my publications and talks according to their topics.
@@ -21,7 +21,7 @@ The following entries organize my publications and talks according to their topi
 
 ## Related talks
 {% for item in site.data.talksScup %}
-- {{ item.name }} [slides]({{ item.link }})
+- {{ item.name }} {% if item.link != '/'%}[slides]({{ item.link }}){% endif %}
 {% endfor %}
 
 ## Related publications
@@ -42,7 +42,7 @@ Translation of annotated modern transcriptions of mensural pieces back into thei
 
 ## Related talks
 {% for item in site.data.talksMensuraltrans %}
-- {{ item.name }} [slides]({{ item.link }})
+- {{ item.name }} {% if item.link != '/'%}[slides]({{ item.link }}){% endif %}
 {% endfor %}
 
 
@@ -59,7 +59,7 @@ For more information about this project (including videos of the do-it-yourself 
 
 ## Related talks
 {% for item in site.data.talksGuate %}
-- {{ item.name }} [slides]({{ item.link }})
+- {{ item.name }} {% if item.link != '/'%}[slides]({{ item.link }}){% endif %}
 {% endfor %}
 
 Different slide presentations focus on different aspects of the project. Some talks were more focused towards archives and libraries, others towards technologies, others towards future work. [This set of slides](/) contains everything that has been presented on the 'Guatemalan Digitization' topic.
