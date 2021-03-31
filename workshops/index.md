@@ -6,7 +6,7 @@ title: workshops
 
 ## Optical Music Recognition (OMR) workshops:
 {% for item in site.data.workshopsOMR %}
-- <p>{{ item.name }} {% if item.link != '/'%}[slides]({{ item.link }}){% endif %}</p>
+- {{ item.name }} {% if item.link != '/'%}[slides]({{ item.link }}){% endif %}
 {% endfor %}
 
 ## Music Encoding workshops/lectures:
