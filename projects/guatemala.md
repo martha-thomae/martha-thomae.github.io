@@ -7,8 +7,8 @@ The project involved the design of a DIY (do-it-yourself) book scanners, with th
 
 ## Book Cradle Configurations:
 The cradle was built by my father in Guatemala. It allows for two configurations:
-1. [Upside V-shaped configuration](https://youtu.be/ULAE4sE2Wqg)
-2. [Open-at-one-side configuration](https://youtu.be/VDbJQSMjB0s)
+1. [Upside V-shaped configuration](https://youtu.be/VDbJQSMjB0s)
+2. [Open-at-one-side configuration](https://youtu.be/ULAE4sE2Wqg)
 
 ## Digitization Process
 These videos show the process followed during digitization:
