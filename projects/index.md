@@ -68,7 +68,7 @@ Different slide presentations focus on different aspects of the project. Some ta
 
 **Notes:**
 - The **OMR process** was indeed conducted at McGill, but it was done with the MuRET (Music Recognition, Encoding, and Transcription) framework developed by David Rizo at the University of Alicante.
-- The **scoring up** (or interpretation of mensural notation) was indeed done with the *Scoring-up Tool*, but through the *Measuring Polyphony editor (MP-editor)*. The MP-editor is an online mensural notation editor that includes the scoring-up functionality and allows for editorial corrections.
+- The **scoring up** (or interpretation of mensural notation) was indeed done with the *Scoring-up Tool*, but through the *Measuring Polyphony editor (MP-editor)*. The MP Editor is an online mensural notation editor that includes the scoring-up functionality and allows for editorial corrections. The MP Editor is a project lead by Professor Karen Desmond (Brandeis University), its lead developer is Juliette Regimbal (McGill University) and I am the developer of its scoring-up functionality. The editorial corrections were further facilitated by integrating humlib's dissonance filter into the MP Editor, showing all dissonance types present in the score and highlighting the ones that are considered "illegal dissonances" according to the Renaissance style. Humlib is a library for parsing Humdrum files developed by Craig Sapp, its dissonance filter was developed by Alex Morgan as part of the Josquin Research Project.
 
 ## Related publications
 Thomae, Martha E., Julie E. Cumming, and Ichiro Fujinaga. “Counterpoint Error-Detection Tools for Optical Music Recognition of Renaissance Polyphonic Music.” In Proceedings of the 23rd International Society for Music Information Retrieval Conference. Bengaluru, India, 2022.
@@ -76,3 +76,19 @@ Thomae, Martha E., Julie E. Cumming, and Ichiro Fujinaga. “Counterpoint Error-
 Thomae, Martha E., Julie E. Cumming, and Ichiro Fujinaga. “Digitization of Choirbooks in Guatemala.” In Proceedings of the 9th International Conference on Digital Libraries for Musicologists, 19–26. Prague, Czech Republic: ACM, 2022. [https://doi.org/10.1145/3543882.3543885](https://doi.org/10.1145/3543882.3543885)
 
 Thomae, Martha E. “The Guatemalan Choirbooks: Facilitating Preservation, Performance, and Study of the Colonial Repertoire.” In Christian Sacred Music in the Americas, edited by Andrew Shenton and Joanna Smolko. New York, Rowman & Littlefield, 2021. [PDF (as published in B&W)](/assets/papers/ThomaeChapter.pdf)
+
+# Miscellaneous
+
+## Chantbooks in Guatemala
+
+### Related talks
+{% for item in site.data.talksNeumes %}
+- {{ item.name }} {% if item.link != '/'%}[slides]({{ item.link }}){% endif %}
+{% endfor %}
+
+## Encoding Technologies
+
+### Related talks
+{% for item in site.data.talksEncodingTech %}
+- {{ item.name }} {% if item.link != '/'%}[slides]({{ item.link }}){% endif %}
+{% endfor %}
