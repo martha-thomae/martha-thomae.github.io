@@ -33,6 +33,8 @@ Thomae, Martha E., Julie E. Cumming, and Ichiro Fujinaga. “The Mensural Scorin
 An online mensural notation editor. My contribution to this editor was the scoring-up functionality. This implied converting my Python script into JavaScript, and introducing functionality to deal with older mensural repertoire (Ars antiqua) among other things.
 
 ## Related publications (and talks)
+Desmond, Karen, Laurent Pugin, Juliette Regimbal, David Rizo, Craig Sapp, and Martha E. Thomae. “Encoding Polyphony from Medieval Manuscripts Notated in Mensural Notation.” In Proceedings of the Music Encoding Conference, edited by Stefan Münnich and David Rizo, 197–219. Alicante, Spain (online): Humanities Commons, 2021. [https://doi.org/10.17613/tf2j-x697](https://doi.org/10.17613/tf2j-x697).
+
 Desmond, Karen, Andrew Hankinson, Laurent Pugin, Juliette Regimbal, Craig Sapp, and Martha E. Thomae. “Next Steps for Measuring Polyphony: A Prototype Editor for Encoding Mensural Music.” In Proceedings of the Music Encoding Conference, 121–24. Tufts University, Boston, MA: Humanities Commons, 2020. [http://dx.doi.org/10.17613/5k88-9z02](http://dx.doi.org/10.17613/5k88-9z02).
 
 
@@ -69,4 +71,8 @@ Different slide presentations focus on different aspects of the project. Some ta
 - The **scoring up** (or interpretation of mensural notation) was indeed done with the *Scoring-up Tool*, but through the *Measuring Polyphony editor (MP-editor)*. The MP-editor is an online mensural notation editor that includes the scoring-up functionality and allows for editorial corrections.
 
 ## Related publications
+Thomae, Martha E., Julie E. Cumming, and Ichiro Fujinaga. “Counterpoint Error-Detection Tools for Optical Music Recognition of Renaissance Polyphonic Music.” In Proceedings of the 23rd International Society for Music Information Retrieval Conference. Bengaluru, India, 2022.
+
+Thomae, Martha E., Julie E. Cumming, and Ichiro Fujinaga. “Digitization of Choirbooks in Guatemala.” In Proceedings of the 9th International Conference on Digital Libraries for Musicologists, 19–26. Prague, Czech Republic: ACM, 2022. [https://doi.org/10.1145/3543882.3543885](https://doi.org/10.1145/3543882.3543885)
+
 Thomae, Martha E. “The Guatemalan Choirbooks: Facilitating Preservation, Performance, and Study of the Colonial Repertoire.” In Christian Sacred Music in the Americas, edited by Andrew Shenton and Joanna Smolko. New York, Rowman & Littlefield, 2021. [PDF (as published in B&W)](/assets/papers/ThomaeChapter.pdf)
