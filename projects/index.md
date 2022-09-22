@@ -89,6 +89,6 @@ Thomae, Martha E. “The Guatemalan Choirbooks: Facilitating Preservation, Perfo
 ## Encoding Technologies
 
 ### Related talks
-{% for item in site.data.talksEncodingTech %}
+{% for item in site.data.talksEncodingTechs %}
 - {{ item.name }} {% if item.link != '/'%}[slides]({{ item.link }}){% endif %}
 {% endfor %}
