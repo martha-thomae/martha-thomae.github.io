@@ -4,61 +4,24 @@ title: publications and talks
 ---
 # Publications and Talks
 
-My main projects involve retrieving the semantics of mensural music and present them in score layout. Most mensural pieces are written in separate parts rather than in score format. The separate-parts arrangement difficults the visualization of the vertial sonorities (one cannot visualize what notes are being sung at the same time) and relation between the voices. Most of my projects involve the conversion of this separate-parts layout of the original pieces into a score layout. This, implies dealing with the interpretation of the duration of the notes in mensural notation, which is an issue on its own (in triple meter, the duration of the mensural notes depends on the context—notes preceding/following). Therefore, retrieving the semantics of mensural notation is an integral part of presenting the mensural piece in score layout.
+My main projects involve retrieving the semantics of mensural music and present them in score layout (either by developing tools to achieve this task or using them to encode a new corpus). Most mensural pieces are written in separate parts rather than in score format. The separate-parts arrangement difficults the visualization of the vertial sonorities (one cannot visualize what notes are being sung at the same time) and relation between the voices. Most of my projects involve the conversion of this separate-parts layout of the original pieces into a score layout. This, implies dealing with the interpretation of the duration of the notes in mensural notation, which is an issue on its own (in triple meter, the duration of the mensural notes depends on the context—notes preceding/following). Therefore, retrieving the semantics of mensural notation is an integral part of presenting the mensural piece in score layout.
 
-[This set of slides](/assets/slides/Freiburg_Music_Research_Colloquium - compressed.pdf) present a survey of my work on different projects that have been working towards this goal.
+## [This set of slides](/assets/slides/Freiburg_Music_Research_Colloquium - compressed.pdf) present a survey of my work on different projects that have been working towards this goal.
 
 ## Related talks:
 {% for item in site.data.talksSurvey %}
 - {{ item.name }} {% if item.link != '/'%}[slides]({{ item.link }}){% endif %}
 {% endfor %}
 
-The following entries organize my publications and talks according to their topics.
+---
+---
 
+## The following entries organize my publications and talks according to their topics:
 
-# Automatic scoring up (for mensural notation)
-## Description
-Vocal polyphonic music from 1280 to 1600 is written in mensural notation and it is typically presented in a layout with separate parts.The Mensural Scoring-up Tool is a set of scripts designed to automatically transform the separate-parts representation of the music into a score by dealing with the context-dependent nature of the notation through the implementation of the principles of imperfection and alteration, outlined by Franco of Cologne (ca. 1280). This tool exhibits 97% accuracy in a corpus of fourteenth- and fifteenth-century pieces, including both black and white mensural notation. 
+---
 
-## Related talks
-{% for item in site.data.talksScup %}
-- {{ item.name }} {% if item.link != '/'%}[slides]({{ item.link }}){% endif %}
-{% endfor %}
+## <span style="color:Gray">TOPIC:</span> GUATEMALAN CHOIRBOOK DIGITIZATION AND ENCONDING
 
-## Related publications
-Thomae, Martha E., Julie E. Cumming, and Ichiro Fujinaga. “The Mensural Scoring-Up Tool.” In Proceedings of the 6th International Workshop on Digital Libraries for Musicology, 9–19. National Library of the Netherlands, The Hague, NL: ACM, 2019. [https://doi.org/10.1145/3358664.3358668](https://doi.org/10.1145/3358664.3358668).
-
-
-# Measuring Polyphony Editor (MP Editor)
-## Description
-An online mensural notation editor. My contribution to this editor was the scoring-up functionality. This implied converting my Python script into JavaScript, and introducing functionality to deal with older mensural repertoire (Ars antiqua) among other things.
-
-## Related publications (and talks)
-Desmond, Karen, Laurent Pugin, Juliette Regimbal, David Rizo, Craig Sapp, and Martha E. Thomae. “Encoding Polyphony from Medieval Manuscripts Notated in Mensural Notation.” In Proceedings of the Music Encoding Conference, edited by Stefan Münnich and David Rizo, 197–219. Alicante, Spain (online): Humanities Commons, 2021. [https://doi.org/10.17613/tf2j-x697](https://doi.org/10.17613/tf2j-x697).
-
-Desmond, Karen, Andrew Hankinson, Laurent Pugin, Juliette Regimbal, Craig Sapp, and Martha E. Thomae. “Next Steps for Measuring Polyphony: A Prototype Editor for Encoding Mensural Music.” In Proceedings of the Music Encoding Conference, 121–24. Tufts University, Boston, MA: Humanities Commons, 2020. [http://dx.doi.org/10.17613/5k88-9z02](http://dx.doi.org/10.17613/5k88-9z02).
-
-
-# CMN to Mensural MEI Translator
-## Description
-Translation of annotated modern transcriptions of mensural pieces back into their original notation.
-
-## Related talks
-{% for item in site.data.talksMensuraltrans %}
-- {{ item.name }} {% if item.link != '/'%}[slides]({{ item.link }}){% endif %}
-{% endfor %}
-
-
-# Machine translation applied to OMR
-## Description
-Applied machine translation techniques to solve one of the central problems in the field of optical music recognition---extracting the semantics of a sequence of music characters---using the seq2seq model and the attention mechanism from machine translation to address this issue. This initial approach could provide a more generalizable solutions than the current approaches, which involve heuristics and grammars.
-
-## Related publications (and talks)
-Thomae, Martha E., Antonio Ríos-Vila, Jorge Calvo-Zaragoza, David Rizo, and José M. Iñesta. “Retrieving Music Semantics from Optical Music Recognition by Machine Translation.” In Proceedings of the Music Encoding Conference, 19–24. Tufts University, Boston, MA: Humanities Commons, 2020. [http://dx.doi.org/10.17613/605z-nt78](http://dx.doi.org/10.17613/605z-nt78).
-
-
-# Guatemalan choirbook digitization project
-## Description
 For more information about this project (including videos of the do-it-yourself book scanner) and the paper with the images in full color, see [Guatemalan Digitization Project](/projects/guatemala.html).
 
 ## Related talks
@@ -79,7 +42,54 @@ Thomae, Martha E., Julie E. Cumming, and Ichiro Fujinaga. “Digitization of Cho
 
 Thomae, Martha E. “The Guatemalan Choirbooks: Facilitating Preservation, Performance, and Study of the Colonial Repertoire.” In Christian Sacred Music in the Americas, edited by Andrew Shenton and Joanna Smolko. New York, Rowman & Littlefield, 2021. [PDF (as published in B&W)](/assets/papers/ThomaeChapter.pdf)
 
-# Miscellaneous
+---
+
+## <span style="color:Gray">TOPIC:</span> AUTOMATIC SCORING UP FOR MENSURAL NOTATION
+
+Vocal polyphonic music from 1280 to 1600 is written in mensural notation and it is typically presented in a layout with separate parts.The Mensural Scoring-up Tool is a set of Python scripts designed to automatically transform the separate-parts representation of the music into a score by dealing with the context-dependent nature of the notation through the implementation of the principles of imperfection and alteration, outlined by Franco of Cologne (ca. 1280). This tool exhibits 97% accuracy in a corpus of fourteenth- and fifteenth-century pieces, including both black and white mensural notation.
+
+## Related talks
+{% for item in site.data.talksScup %}
+- {{ item.name }} {% if item.link != '/'%}[slides]({{ item.link }}){% endif %}
+{% endfor %}
+
+## Related publications
+Thomae, Martha E., Julie E. Cumming, and Ichiro Fujinaga. “The Mensural Scoring-Up Tool.” In Proceedings of the 6th International Workshop on Digital Libraries for Musicology, 9–19. National Library of the Netherlands, The Hague, NL: ACM, 2019. [https://doi.org/10.1145/3358664.3358668](https://doi.org/10.1145/3358664.3358668).
+
+---
+
+## <span style="color:Gray">TOPIC:</span> MEASURING POLYPHONY EDITOR (MP EDITOR)
+
+An online mensural notation editor. My contribution to this editor was the scoring-up functionality (see previous project). This implied converting my Python script into JavaScript, and introducing functionality to deal with older mensural repertoire (Ars antiqua) among other things.
+
+## Related publications (and talks)
+Desmond, Karen, Laurent Pugin, Juliette Regimbal, David Rizo, Craig Sapp, and Martha E. Thomae. “Encoding Polyphony from Medieval Manuscripts Notated in Mensural Notation.” In Proceedings of the Music Encoding Conference, edited by Stefan Münnich and David Rizo, 197–219. Alicante, Spain (online): Humanities Commons, 2021. [https://doi.org/10.17613/tf2j-x697](https://doi.org/10.17613/tf2j-x697).
+
+Desmond, Karen, Andrew Hankinson, Laurent Pugin, Juliette Regimbal, Craig Sapp, and Martha E. Thomae. “Next Steps for Measuring Polyphony: A Prototype Editor for Encoding Mensural Music.” In Proceedings of the Music Encoding Conference, 121–24. Tufts University, Boston, MA: Humanities Commons, 2020. [http://dx.doi.org/10.17613/5k88-9z02](http://dx.doi.org/10.17613/5k88-9z02).
+
+---
+
+## <span style="color:Gray">TOPIC:</span> CMN TO MENSURAL MEI TRANSLATOR
+
+Translation of annotated modern transcriptions of mensural pieces back into their original notation.
+
+## Related talks
+{% for item in site.data.talksMensuraltrans %}
+- {{ item.name }} {% if item.link != '/'%}[slides]({{ item.link }}){% endif %}
+{% endfor %}
+
+---
+
+## <span style="color:Gray">TOPIC:</span> MACHINE TRANSLATION APPLIED TO OMR
+
+Applied machine translation techniques to solve one of the central problems in the field of optical music recognition---extracting the semantics of a sequence of music characters---using the seq2seq model and the attention mechanism from machine translation to address this issue. This initial approach could provide a more generalizable solutions than the current approaches, which involve heuristics and grammars.
+
+## Related publications (and talks)
+Thomae, Martha E., Antonio Ríos-Vila, Jorge Calvo-Zaragoza, David Rizo, and José M. Iñesta. “Retrieving Music Semantics from Optical Music Recognition by Machine Translation.” In Proceedings of the Music Encoding Conference, 19–24. Tufts University, Boston, MA: Humanities Commons, 2020. [http://dx.doi.org/10.17613/605z-nt78](http://dx.doi.org/10.17613/605z-nt78).
+
+---
+
+## <span style="color:Gray">TOPIC:</span> MISCELLANEOUS
 
 ## Chantbooks in Guatemala
 
@@ -94,3 +104,5 @@ Thomae, Martha E. “The Guatemalan Choirbooks: Facilitating Preservation, Perfo
 {% for item in site.data.talksEncodingTechs %}
 - {{ item.name }} {% if item.link != '/'%}[slides]({{ item.link }}){% endif %}
 {% endfor %}
+
+---
