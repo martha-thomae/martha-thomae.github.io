@@ -18,6 +18,7 @@ The following entries organize my publications and talks according to their topi
 
 # Automatic scoring up (for mensural notation)
 ## Description
+Vocal polyphonic music from 1280 to 1600 is written in mensural notation and it is typically presented in a layout with separate parts.The Mensural Scoring-up Tool is a set of scripts designed to automatically transform the separate-parts representation of the music into a score by dealing with the context-dependent nature of the notation through the implementation of the principles of imperfection and alteration, outlined by Franco of Cologne (ca. 1280). This tool exhibits 97% accuracy in a corpus of fourteenth- and fifteenth-century pieces, including both black and white mensural notation. 
 
 ## Related talks
 {% for item in site.data.talksScup %}
@@ -50,6 +51,7 @@ Translation of annotated modern transcriptions of mensural pieces back into thei
 
 # Machine translation applied to OMR
 ## Description
+Applied machine translation techniques to solve one of the central problems in the field of optical music recognition---extracting the semantics of a sequence of music characters---using the seq2seq model and the attention mechanism from machine translation to address this issue. This initial approach could provide a more generalizable solutions than the current approaches, which involve heuristics and grammars.
 
 ## Related publications (and talks)
 Thomae, Martha E., Antonio Ríos-Vila, Jorge Calvo-Zaragoza, David Rizo, and José M. Iñesta. “Retrieving Music Semantics from Optical Music Recognition by Machine Translation.” In Proceedings of the Music Encoding Conference, 19–24. Tufts University, Boston, MA: Humanities Commons, 2020. [http://dx.doi.org/10.17613/605z-nt78](http://dx.doi.org/10.17613/605z-nt78).
