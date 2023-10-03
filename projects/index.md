@@ -6,7 +6,7 @@ title: publications and talks
 
 My main projects involve retrieving the semantics of mensural music and present them in score layout (either by developing tools to achieve this task or using them to encode a new corpus). Most mensural pieces are written in separate parts rather than in score format. The separate-parts arrangement difficults the visualization of the vertial sonorities (one cannot visualize what notes are being sung at the same time) and relation between the voices. Most of my projects involve the conversion of this separate-parts layout of the original pieces into a score layout. This, implies dealing with the interpretation of the duration of the notes in mensural notation, which is an issue on its own (in triple meter, the duration of the mensural notes depends on the context—notes preceding/following). Therefore, retrieving the semantics of mensural notation is an integral part of presenting the mensural piece in score layout.
 
-## [This set of slides](/assets/slides/Freiburg_Music_Research_Colloquium - compressed.pdf) present a survey of my work on different projects that have been working towards this goal.
+## [This set of slides](/assets/slides/PDF/Freiburg_Music_Research_Colloquium - compressed.pdf) present a survey of my work on different projects that have been working towards this goal.
 
 ## Related talks:
 {% for item in site.data.talksSurvey %}
