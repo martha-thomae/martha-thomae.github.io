@@ -16,4 +16,4 @@ The purpose of the following workshops were to teach musicologists (professional
 - {{ item.name }} {% if item.link != '/'%}[slides]({{ item.link }}){% endif %}
 {% endfor %}
 
-[This set of slides](/assets/slides/MEI General and MEI for Mensural Notation - compressed.pdf) summarizes what was presented during these workshops. It covers the very basics of the encoding MEI (Music Encoding Initiative) format and then it moves into the use of MEI for encoding mensural notation in particular.
+[This set of slides](/assets/slides/PDF/MEI General and MEI for Mensural Notation - compressed.pdf) summarizes what was presented during these workshops. It covers the very basics of the encoding MEI (Music Encoding Initiative) format and then it moves into the use of MEI for encoding mensural notation in particular.
