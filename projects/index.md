@@ -40,7 +40,7 @@ Thomae, Martha E., Julie E. Cumming, and Ichiro Fujinaga. “Counterpoint Error-
 
 Thomae, Martha E., Julie E. Cumming, and Ichiro Fujinaga. “Digitization of Choirbooks in Guatemala.” In Proceedings of the 9th International Conference on Digital Libraries for Musicologists, 19–26. Prague, Czech Republic: ACM, 2022. [https://doi.org/10.1145/3543882.3543885](https://doi.org/10.1145/3543882.3543885). [**PDF**](/assets/papers/thomae_2022_dlfm_digitization_publication.pdf)
 
-Thomae, Martha E. “The Guatemalan Choirbooks: Facilitating Preservation, Performance, and Study of the Colonial Repertoire.” In Christian Sacred Music in the Americas, edited by Andrew Shenton and Joanna Smolko. New York, Rowman & Littlefield, 2021. [PDF (as published in B&W)](/assets/papers/ThomaeChapter.pdf)
+Thomae, Martha E. “The Guatemalan Choirbooks: Facilitating Preservation, Performance, and Study of the Colonial Repertoire.” In Christian Sacred Music in the Americas, edited by Andrew Shenton and Joanna Smolko. New York, Rowman & Littlefield, 2021. [**PDF (as published in B&W)**](/assets/papers/ThomaeChapter.pdf)
 
 ---
 
