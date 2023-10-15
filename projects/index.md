@@ -36,9 +36,9 @@ Different slide presentations focus on different aspects of the project. Some ta
 - The **scoring up** (or interpretation of mensural notation) was indeed done with the *Scoring-up Tool*, but through the *Measuring Polyphony Editor (MP Editor)*. The MP Editor is an online mensural notation editor that includes the scoring-up functionality and allows for editorial corrections. The MP Editor is a project lead by Professor Karen Desmond (Brandeis University), its lead developer is Juliette Regimbal (McGill University) and I am the developer of its scoring-up functionality. The editorial corrections were further facilitated by integrating *humlib's dissonance filter* into the MP Editor, showing all dissonance types present in the score and highlighting the ones that are considered "illegal dissonances" according to the Renaissance style. Humlib is a library for parsing Humdrum files developed by Craig Sapp, its dissonance filter was developed by Alex Morgan as part of the Josquin Research Project.
 
 ## Related publications
-Thomae, Martha E., Julie E. Cumming, and Ichiro Fujinaga. “Counterpoint Error-Detection Tools for Optical Music Recognition of Renaissance Polyphonic Music.” In Proceedings of the 23rd International Society for Music Information Retrieval Conference. Bengaluru, India, 2022.
+Thomae, Martha E., Julie E. Cumming, and Ichiro Fujinaga. “Counterpoint Error-Detection Tools for Optical Music Recognition of Renaissance Polyphonic Music.” In Proceedings of the 23rd International Society for Music Information Retrieval Conference. Bengaluru, India, 2022. [PDF](/assets/papers/thomae_2022_ismir_counterpoint_publication.pdf)
 
-Thomae, Martha E., Julie E. Cumming, and Ichiro Fujinaga. “Digitization of Choirbooks in Guatemala.” In Proceedings of the 9th International Conference on Digital Libraries for Musicologists, 19–26. Prague, Czech Republic: ACM, 2022. [https://doi.org/10.1145/3543882.3543885](https://doi.org/10.1145/3543882.3543885)
+Thomae, Martha E., Julie E. Cumming, and Ichiro Fujinaga. “Digitization of Choirbooks in Guatemala.” In Proceedings of the 9th International Conference on Digital Libraries for Musicologists, 19–26. Prague, Czech Republic: ACM, 2022. [https://doi.org/10.1145/3543882.3543885](https://doi.org/10.1145/3543882.3543885). [PDF](/assets/papers/thomae_2022_dlfm_digitization_publication.pdf)
 
 Thomae, Martha E. “The Guatemalan Choirbooks: Facilitating Preservation, Performance, and Study of the Colonial Repertoire.” In Christian Sacred Music in the Americas, edited by Andrew Shenton and Joanna Smolko. New York, Rowman & Littlefield, 2021. [PDF (as published in B&W)](/assets/papers/ThomaeChapter.pdf)
 
@@ -54,7 +54,7 @@ Vocal polyphonic music from 1280 to 1600 is written in mensural notation and it 
 {% endfor %}
 
 ## Related publications
-Thomae, Martha E., Julie E. Cumming, and Ichiro Fujinaga. “The Mensural Scoring-Up Tool.” In Proceedings of the 6th International Workshop on Digital Libraries for Musicology, 9–19. National Library of the Netherlands, The Hague, NL: ACM, 2019. [https://doi.org/10.1145/3358664.3358668](https://doi.org/10.1145/3358664.3358668).
+Thomae, Martha E., Julie E. Cumming, and Ichiro Fujinaga. “The Mensural Scoring-Up Tool.” In Proceedings of the 6th International Workshop on Digital Libraries for Musicology, 9–19. National Library of the Netherlands, The Hague, NL: ACM, 2019. [https://doi.org/10.1145/3358664.3358668](https://doi.org/10.1145/3358664.3358668). [PDF](/assets/papers/thomae_2019_dlfm_mensural_publication.pdf)
 
 ---
 
@@ -63,9 +63,9 @@ Thomae, Martha E., Julie E. Cumming, and Ichiro Fujinaga. “The Mensural Scorin
 An online mensural notation editor. My contribution to this editor was the scoring-up functionality (see previous project). This implied converting my Python script into JavaScript, and introducing functionality to deal with older mensural repertoire (Ars antiqua) among other things.
 
 ## Related publications (and talks)
-Desmond, Karen, Laurent Pugin, Juliette Regimbal, David Rizo, Craig Sapp, and Martha E. Thomae. “Encoding Polyphony from Medieval Manuscripts Notated in Mensural Notation.” In Proceedings of the Music Encoding Conference, edited by Stefan Münnich and David Rizo, 197–219. Alicante, Spain (online): Humanities Commons, 2021. [https://doi.org/10.17613/tf2j-x697](https://doi.org/10.17613/tf2j-x697).
+Desmond, Karen, Laurent Pugin, Juliette Regimbal, David Rizo, Craig Sapp, and Martha E. Thomae. “Encoding Polyphony from Medieval Manuscripts Notated in Mensural Notation.” In Proceedings of the Music Encoding Conference, edited by Stefan Münnich and David Rizo, 197–219. Alicante, Spain (online): Humanities Commons, 2021. [https://doi.org/10.17613/tf2j-x697](https://doi.org/10.17613/tf2j-x697). [PDF](/assets/papers/desmond_2021_mec_encodingpolyphony_publication.pdf)
 
-Desmond, Karen, Andrew Hankinson, Laurent Pugin, Juliette Regimbal, Craig Sapp, and Martha E. Thomae. “Next Steps for Measuring Polyphony: A Prototype Editor for Encoding Mensural Music.” In Proceedings of the Music Encoding Conference, 121–24. Tufts University, Boston, MA: Humanities Commons, 2020. [http://dx.doi.org/10.17613/5k88-9z02](http://dx.doi.org/10.17613/5k88-9z02).
+Desmond, Karen, Andrew Hankinson, Laurent Pugin, Juliette Regimbal, Craig Sapp, and Martha E. Thomae. “Next Steps for Measuring Polyphony: A Prototype Editor for Encoding Mensural Music.” In Proceedings of the Music Encoding Conference, 121–24. Tufts University, Boston, MA: Humanities Commons, 2020. [http://dx.doi.org/10.17613/5k88-9z02](http://dx.doi.org/10.17613/5k88-9z02). [PDF](/assets/papers/desmond_2020_mec_nextsteps_poster.pdf)
 
 ---
 
@@ -85,7 +85,7 @@ Translation of annotated modern transcriptions of mensural pieces back into thei
 Applied machine translation techniques to solve one of the central problems in the field of optical music recognition---extracting the semantics of a sequence of music characters---using the seq2seq model and the attention mechanism from machine translation to address this issue. This initial approach could provide a more generalizable solutions than the current approaches, which involve heuristics and grammars.
 
 ## Related publications (and talks)
-Thomae, Martha E., Antonio Ríos-Vila, Jorge Calvo-Zaragoza, David Rizo, and José M. Iñesta. “Retrieving Music Semantics from Optical Music Recognition by Machine Translation.” In Proceedings of the Music Encoding Conference, 19–24. Tufts University, Boston, MA: Humanities Commons, 2020. [http://dx.doi.org/10.17613/605z-nt78](http://dx.doi.org/10.17613/605z-nt78).
+Thomae, Martha E., Antonio Ríos-Vila, Jorge Calvo-Zaragoza, David Rizo, and José M. Iñesta. “Retrieving Music Semantics from Optical Music Recognition by Machine Translation.” In Proceedings of the Music Encoding Conference, 19–24. Tufts University, Boston, MA: Humanities Commons, 2020. [http://dx.doi.org/10.17613/605z-nt78](http://dx.doi.org/10.17613/605z-nt78). [PDF](/assets/papers/thomae_2020_mec_retrieving_publication.pdf)
 
 ---
 
