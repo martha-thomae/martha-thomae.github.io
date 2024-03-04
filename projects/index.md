@@ -16,8 +16,6 @@ My main projects involve retrieving the semantics of mensural music and present 
 
 Another big topic I have been working on recently is about digitization, encoding, and analysis of chants.
 
-The following entries are separated into two main sections: the first one addresses the projects that involve mensural notation (polyphonic music from the Late Middle Ages and Renaissance); and the second one addresses the topic of chant digitization, encoding, and analysis.
-
 ---
 ---
 
