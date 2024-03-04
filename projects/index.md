@@ -91,7 +91,7 @@ Thomae, Martha E., Antonio Ríos-Vila, Jorge Calvo-Zaragoza, David Rizo, and Jos
 
 ## <span style="color:Gray">TOPIC:</span> CHANT ENCODING AND ANALYSIS
 
-Recently, during my postdoctoral research fellowship at Universidade NOVA de Lisboa, I have focused my work on chants. I have also joined the [Digital Analysis of Chant Transmission (DACT) group](https://dact-chant.ca), where I collaborate as a consultant regarding Spanish chantbooks in Guatemala for the Cantorales Project (that works on cataloguing Spanish chantbooks outside of Spain).
+Recently, during my postdoctoral research fellowship at Universidade NOVA de Lisboa, I have focused my work on chants. I have also joined the **[Digital Analysis of Chant Transmission (DACT)](https://dact-chant.ca)** group, where I collaborate with information about Spanish chantbooks in Guatemala for the **Cantorales Project** (since 2022). The Cantorales Project team works towards developing a catalogue of Spanish chantbooks outside of Spain.
 
 ## Related talks
 {% for item in site.data.talksNeumes %}
