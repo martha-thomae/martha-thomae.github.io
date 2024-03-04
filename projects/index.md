@@ -26,9 +26,9 @@ Another big topic I have been working on recently is about digitization, encodin
 ---
 ---
 
-## <span style="color:cadetblue;">PROJECTS ON POLYPHONIC EARLY MUSIC AND MENSURAL NOTATION</span>
+# <span style="color:Gray;">(1) PROJECTS ON POLYPHONIC EARLY MUSIC AND MENSURAL NOTATION</span>
 
-## <span style="color:Gray">TOPIC:</span> GUATEMALAN CHOIRBOOK DIGITIZATION AND ENCONDING
+## <span style="color:cadetblue">TOPIC:</span> GUATEMALAN CHOIRBOOK DIGITIZATION AND ENCONDING
 
 For more information about this project (including videos of the do-it-yourself book scanner) and the paper with the images in full color, see [Guatemalan Digitization Project](/projects/guatemala.html).
 
@@ -52,7 +52,7 @@ Thomae, Martha E. “The Guatemalan Choirbooks: Facilitating Preservation, Perfo
 
 ---
 
-## <span style="color:Gray">TOPIC:</span> AUTOMATIC SCORING UP FOR MENSURAL NOTATION
+## <span style="color:cadetblue">TOPIC:</span> AUTOMATIC SCORING UP FOR MENSURAL NOTATION
 
 Vocal polyphonic music from 1280 to 1600 is written in mensural notation and it is typically presented in a layout with separate parts.The Mensural Scoring-up Tool is a set of Python scripts designed to automatically transform the separate-parts representation of the music into a score by dealing with the context-dependent nature of the notation through the implementation of the principles of imperfection and alteration, outlined by Franco of Cologne (ca. 1280). This tool exhibits 97% accuracy in a corpus of fourteenth- and fifteenth-century pieces, including both black and white mensural notation.
 
@@ -66,7 +66,7 @@ Thomae, Martha E., Julie E. Cumming, and Ichiro Fujinaga. “The Mensural Scorin
 
 ---
 
-## <span style="color:Gray">TOPIC:</span> MEASURING POLYPHONY EDITOR (MP EDITOR)
+## <span style="color:cadetblue">TOPIC:</span> MEASURING POLYPHONY EDITOR (MP EDITOR)
 
 An online mensural notation editor. My contribution to this editor was the scoring-up functionality (see previous project). This implied converting my Python script into JavaScript, and introducing functionality to deal with older mensural repertoire (Ars antiqua) among other things.
 
@@ -77,7 +77,7 @@ Desmond, Karen, Andrew Hankinson, Laurent Pugin, Juliette Regimbal, Craig Sapp, 
 
 ---
 
-## <span style="color:Gray">TOPIC:</span> CMN TO MENSURAL MEI TRANSLATOR
+## <span style="color:cadetblue">TOPIC:</span> CMN TO MENSURAL MEI TRANSLATOR
 
 Translation of annotated modern transcriptions of mensural pieces back into their original notation.
 
@@ -88,7 +88,7 @@ Translation of annotated modern transcriptions of mensural pieces back into thei
 
 ---
 
-## <span style="color:Gray">TOPIC:</span> MACHINE TRANSLATION APPLIED TO OMR
+## <span style="color:cadetblue">TOPIC:</span> MACHINE TRANSLATION APPLIED TO OMR
 
 Applied machine translation techniques to solve one of the central problems in the field of optical music recognition---extracting the semantics of a sequence of music characters---using the seq2seq model and the attention mechanism from machine translation to address this issue. This initial approach could provide a more generalizable solutions than the current approaches, which involve heuristics and grammars.
 
@@ -96,7 +96,7 @@ Applied machine translation techniques to solve one of the central problems in t
 Thomae, Martha E., Antonio Ríos-Vila, Jorge Calvo-Zaragoza, David Rizo, and José M. Iñesta. “Retrieving Music Semantics from Optical Music Recognition by Machine Translation.” In Proceedings of the Music Encoding Conference, 19–24. Tufts University, Boston, MA: Humanities Commons, 2020. [http://dx.doi.org/10.17613/605z-nt78](http://dx.doi.org/10.17613/605z-nt78). [**PDF**](/assets/papers/thomae_2020_mec_retrieving_publication.pdf)
 
 
-## <span style="color:Gray">TOPIC:</span> Encoding Technologies
+## <span style="color:cadetblue">TOPIC:</span> Encoding Technologies
 
 ## Related talks
 {% for item in site.data.talksEncodingTechs %}
@@ -106,9 +106,9 @@ Thomae, Martha E., Antonio Ríos-Vila, Jorge Calvo-Zaragoza, David Rizo, and Jos
 ---
 ---
 
-# <span style="color:green;">PROJECTS ON CHANT, MONOPHONIC EARLY MUSIC, NEUMES, AND SQUARE NOTATION</span>
+# <span style="color:Gray;">(2) PROJECTS ON CHANT, MONOPHONIC EARLY MUSIC, NEUMES, AND SQUARE NOTATION</span>
 
-## <span style="color:Gray">TOPIC:</span> CHANT ENCODING AND ANALYSIS
+## <span style="color:green">TOPIC:</span> CHANT ENCODING AND ANALYSIS
 
 Recently, during my postdoctoral research fellowship at Universidade NOVA de Lisboa, I have focused my work on chants. I have also joined the **[Digital Analysis of Chant Transmission (DACT)](https://dact-chant.ca)** group, where I collaborate with information about Spanish chantbooks in Guatemala for the **Cantorales Project** (since 2022). The Cantorales Project team works towards developing a catalogue of Spanish chantbooks outside of Spain.
 
