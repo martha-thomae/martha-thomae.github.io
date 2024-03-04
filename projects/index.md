@@ -19,14 +19,14 @@ Another big topic I have been working on recently is about digitization, encodin
 ---
 ---
 
-## The following entries organize my publications and talks according to their topics, and these are separated into two main sections.
+**The following entries organize my publications and talks according to their topics, and these are separated into two main sections.**
 1. The first section addresses the projects that involve **mensural notation** (**polyphonic music** from the Late Middle Ages and Renaissance).
 2. The second section is about **monophonic music** and **neumes**. It addresses the topics of chant digitization, encoding, and analysis.
 
 ---
 ---
 
-# <span style="color:cadetblue;">Projects regarding Polyphonic Early Music and its Mensural Notation:</span>
+## <span style="color:cadetblue;">PROJECTS ON POLYPHONIC EARLY MUSIC AND MENSURAL NOTATION</span>
 
 ## <span style="color:Gray">TOPIC:</span> GUATEMALAN CHOIRBOOK DIGITIZATION AND ENCONDING
 
@@ -106,7 +106,7 @@ Thomae, Martha E., Antonio Ríos-Vila, Jorge Calvo-Zaragoza, David Rizo, and Jos
 ---
 ---
 
-# <span style="color:green;">Projects regarding Chants, Monophonic Early Music, Neumes, and Square Notation</span>
+# <span style="color:green;">PROJECTS ON CHANT, MONOPHONIC EARLY MUSIC, NEUMES, AND SQUARE NOTATION</span>
 
 ## <span style="color:Gray">TOPIC:</span> CHANT ENCODING AND ANALYSIS
 
