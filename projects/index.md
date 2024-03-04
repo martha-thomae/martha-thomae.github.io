@@ -26,7 +26,7 @@ Another big topic I have been working on recently is about digitization, encodin
 ---
 ---
 
-# <span style="color:Gray;">(1) PROJECTS ON POLYPHONIC EARLY MUSIC AND MENSURAL NOTATION</span>
+# <span style="color:cadetblue;">(1) PROJECTS ON POLYPHONIC EARLY MUSIC AND MENSURAL NOTATION</span>
 
 ## <span style="color:cadetblue">TOPIC:</span> GUATEMALAN CHOIRBOOK DIGITIZATION AND ENCONDING
 
@@ -106,7 +106,7 @@ Thomae, Martha E., Antonio Ríos-Vila, Jorge Calvo-Zaragoza, David Rizo, and Jos
 ---
 ---
 
-# <span style="color:Gray;">(2) PROJECTS ON CHANT, MONOPHONIC EARLY MUSIC, NEUMES, AND SQUARE NOTATION</span>
+# <span style="color:green;">(2) PROJECTS ON CHANT, MONOPHONIC EARLY MUSIC, NEUMES, AND SQUARE NOTATION</span>
 
 ## <span style="color:green">TOPIC:</span> CHANT ENCODING AND ANALYSIS
 
