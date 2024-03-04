@@ -28,7 +28,7 @@ The following entries are separated into two main sections: the first one addres
 ---
 ---
 
-# PROJECTS REGARDING POLYPHONIC EARLY MUSIC AND ITS (MENSURAL) NOTATION:
+# <span style="color:skyblue;">PROJECTS REGARDING POLYPHONIC EARLY MUSIC AND ITS MENSURAL NOTATION:</span>
 
 ## <span style="color:Gray">TOPIC:</span> GUATEMALAN CHOIRBOOK DIGITIZATION AND ENCONDING
 
@@ -108,7 +108,7 @@ Thomae, Martha E., Antonio Ríos-Vila, Jorge Calvo-Zaragoza, David Rizo, and Jos
 ---
 ---
 
-# PROJECTS REGARDING CHANTS / MONOPHONIC EARLY MUSIC, NEUMES, AND SQUARE NOTATION
+# <span style="color:green;">PROJECTS REGARDING CHANTS, MONOPHONIC EARLY MUSIC, NEUMES, AND SQUARE NOTATION</span>
 
 ## <span style="color:Gray">TOPIC:</span> CHANT ENCODING AND ANALYSIS
 
