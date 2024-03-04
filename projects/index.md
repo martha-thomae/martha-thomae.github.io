@@ -13,12 +13,22 @@ My main projects involve retrieving the semantics of mensural music and present 
 - {{ item.name }} {% if item.link != '/'%}[slides]({{ item.link }}){% endif %}
 {% endfor %}
 
+
+Another big topic I have been working on recently is about digitization, encoding, and analysis of chants.
+
+The following entries are separated into two main sections: the first one addresses the projects that involve mensural notation (polyphonic music from the Late Middle Ages and Renaissance); and the second one addresses the topic of chant digitization, encoding, and analysis.
+
 ---
 ---
 
-## The following entries organize my publications and talks according to their topics:
+**The following entries organize my publications and talks according to their topics, and these are separated into two main sections.**
+1. The first section addresses the projects that involve **mensural notation (polyphonic music from the Late Middle Ages and Renaissance)**.
+2. The second section is about **monophonic music**. It addresses the topic of **chant digitization, encoding of neumes, and analysis**.
 
 ---
+---
+
+# PROJECTS REGARDING POLYPHONIC EARLY MUSIC AND ITS (MENSURAL) NOTATION:
 
 ## <span style="color:Gray">TOPIC:</span> GUATEMALAN CHOIRBOOK DIGITIZATION AND ENCONDING
 
@@ -87,7 +97,18 @@ Applied machine translation techniques to solve one of the central problems in t
 ## Related publications (and talks)
 Thomae, Martha E., Antonio Ríos-Vila, Jorge Calvo-Zaragoza, David Rizo, and José M. Iñesta. “Retrieving Music Semantics from Optical Music Recognition by Machine Translation.” In Proceedings of the Music Encoding Conference, 19–24. Tufts University, Boston, MA: Humanities Commons, 2020. [http://dx.doi.org/10.17613/605z-nt78](http://dx.doi.org/10.17613/605z-nt78). [**PDF**](/assets/papers/thomae_2020_mec_retrieving_publication.pdf)
 
+
+## <span style="color:Gray">TOPIC:</span> Encoding Technologies
+
+## Related talks
+{% for item in site.data.talksEncodingTechs %}
+- {{ item.name }} {% if item.link != '/'%}[slides]({{ item.link }}){% endif %}
+{% endfor %}
+
 ---
+---
+
+# PROJECTS REGARDING CHANTS / MONOPHONIC EARLY MUSIC, NEUMES, AND SQUARE NOTATION
 
 ## <span style="color:Gray">TOPIC:</span> CHANT ENCODING AND ANALYSIS
 
@@ -95,17 +116,6 @@ Recently, during my postdoctoral research fellowship at Universidade NOVA de Lis
 
 ## Related talks
 {% for item in site.data.talksNeumes %}
-- {{ item.name }} {% if item.link != '/'%}[slides]({{ item.link }}){% endif %}
-{% endfor %}
-
----
-
-## <span style="color:Gray">TOPIC:</span> MISCELLANEOUS
-
-## Encoding Technologies
-
-### Related talks
-{% for item in site.data.talksEncodingTechs %}
 - {{ item.name }} {% if item.link != '/'%}[slides]({{ item.link }}){% endif %}
 {% endfor %}
 
