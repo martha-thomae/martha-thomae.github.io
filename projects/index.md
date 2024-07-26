@@ -117,4 +117,10 @@ Recently, during my postdoctoral research fellowship at Universidade NOVA de Lis
 - {{ item.name }} {% if item.link != '/'%}[slides]({{ item.link }}){% endif %}
 {% endfor %}
 
+## Related publications
+Thomae, Martha E., David Rizo, Eliseo Fuentes-Martínez, Cristina Alís Raurich, Elsa De Luca, and Jorge Calvo-Zaragoza. "A Preliminary Proposal for a Systematic GABC Encoding of Gregorian Chant." In Proceedings of the 11th International Conference of Digital Libraries for Musicology, 45–53. Stellenbosch, South Africa: ACM, 2024. 
+
+[https://doi.org/10.1145/3660570.3660581](https://doi.org/10.1145/
+3660570.3660581). [**PDF**](/assets/papers/thomae_2024_dlfm_gabc_publication.pdf)
+
 ---
