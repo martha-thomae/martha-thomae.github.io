@@ -95,6 +95,7 @@ Applied machine translation techniques to solve one of the central problems in t
 ## Related publications (and talks)
 Thomae, Martha E., Antonio Ríos-Vila, Jorge Calvo-Zaragoza, David Rizo, and José M. Iñesta. “Retrieving Music Semantics from Optical Music Recognition by Machine Translation.” In Proceedings of the Music Encoding Conference, 19–24. Tufts University, Boston, MA: Humanities Commons, 2020. [http://dx.doi.org/10.17613/605z-nt78](http://dx.doi.org/10.17613/605z-nt78). [**PDF**](/assets/papers/thomae_2020_mec_retrieving_publication.pdf)
 
+---
 
 ## <span style="color:cadetblue">TOPIC:</span> Encoding Technologies
 
