@@ -108,7 +108,7 @@ Thomae, Martha E., Antonio Ríos-Vila, Jorge Calvo-Zaragoza, David Rizo, and Jos
 
 Thomae, Martha E. “Automatic Transcription of Medieval and Renaissance Polyphonic Music in Mensural Notation Using Optical Music Recognition.” In Transactions of the International Society of Music Information Retrieval journal. 2026. (Forthcoming)
 
-Fiala, David, Laurent Pugin, Marnix van Berchum, Martha E. Thomae, Kévin Roger. “A New XML Conversion Process for Mensural Music Encoding: CMME_to_MEI (via Verovio).” In Proceedings of the Music Encoding Conference, edited by David Lewis, Anna Plaksin, and Sophie Stremel, 31–35. London, UK: Knowledge Commons, 2025. https://doi.org/10.17613/gwvsx-q0c26
+Fiala, David, Laurent Pugin, Marnix van Berchum, Martha E. Thomae, Kévin Roger. “A New XML Conversion Process for Mensural Music Encoding: CMME_to_MEI (via Verovio).” In Proceedings of the Music Encoding Conference, edited by David Lewis, Anna Plaksin, and Sophie Stremel, 31–35. London, UK: Knowledge Commons, 2025. [https://doi.org/10.17613/gwvsx-q0c26](https://doi.org/10.17613/gwvsx-q0c26)
 
 ---
 ---
