@@ -104,6 +104,12 @@ Thomae, Martha E., Antonio Ríos-Vila, Jorge Calvo-Zaragoza, David Rizo, and Jos
 - {{ item.name }} {% if item.link != '/'%}[slides]({{ item.link }}){% endif %}
 {% endfor %}
 
+## Related publications
+
+Thomae, Martha E. “Automatic Transcription of Medieval and Renaissance Polyphonic Music in Mensural Notation Using Optical Music Recognition.” In Transactions of the International Society of Music Information Retrieval journal. 2026. (Forthcoming)
+
+Fiala, David, Laurent Pugin, Marnix van Berchum, Martha E. Thomae, Kévin Roger. “A New XML Conversion Process for Mensural Music Encoding: CMME_to_MEI (via Verovio).” In Proceedings of the Music Encoding Conference, edited by David Lewis, Anna Plaksin, and Sophie Stremel, 31–35. London, UK: Knowledge Commons, 2025. https://doi.org/10.17613/gwvsx-q0c26
+
 ---
 ---
 
@@ -119,6 +125,11 @@ Recently, during my postdoctoral research fellowship at Universidade NOVA de Lis
 {% endfor %}
 
 ## Related publications
+
+De Luca, Elsa, Martha E. Thomae, and Antoine Phan. “ECHOES MEI Analyser: Enhancing Musicological Analysis through Digital Tools.” In Shaping Plainchant Research in the Digital Era, edited by Elsa De Luca, Debra Lacoste, and Martha E. Thomae. Musicalia Antiquitatis & Medii Aevi book series: Brepols, 2026. (Forthcoming)
+
+Phan, Antoine, Martha E. Thomae, Elsa De Luca, Francesco Orio. “Plainchant Analyser for MEI Neumes: A Tool for Understanding Chant Transmission.” In Proceedings of the Music Encoding Conference, edited by David Lewis, Anna Plaksin, and Sophie Stremel, 36–48. London, UK: Knowledge Commons, 2025. [https://doi.org/10.17613/jm6rw-btm49](https://doi.org/10.17613/jm6rw-btm49)
+
 Thomae, Martha E., David Rizo, Eliseo Fuentes-Martínez, Cristina Alís Raurich, Elsa De Luca, and Jorge Calvo-Zaragoza. "A Preliminary Proposal for a Systematic GABC Encoding of Gregorian Chant." In Proceedings of the 11th International Conference of Digital Libraries for Musicology, 45–53. Stellenbosch, South Africa: ACM, 2024. [https://doi.org/10.1145/3660570.3660581](https://doi.org/10.1145/
 3660570.3660581). [**PDF**](/assets/papers/thomae_2024_dlfm_gabc_publication.pdf)
 
