@@ -13,8 +13,13 @@ My main projects involve retrieving the semantics of mensural music and present 
 - {{ item.name }} {% if item.link != '/'%}[slides]({{ item.link }}){% endif %}
 {% endfor %}
 
-
 Another big topic I have been working on recently is about digitization, encoding, and analysis of chants.
+
+## This set of [slides (in Spanish)](../assets/slides/PDF/thomae_2025_societat_musicologiadigital.pdf) shows a further step in my academic trajectory, including my postdoctoral research (10/2023–02/2026):
+
+## Related talks:
+“Musicología digital: trabajando en la intersección entre musicología y tecnología.” Invited lecture for the Societat Catalana de Musicologia, Barcelona, Spain, February 25, 2025. [summary & video](https://scmus.iec.cat/musicologia-digital-trabajando-en-la-interseccion-entre-musicologia-y-tecnologia/)
+
 
 ---
 ---
