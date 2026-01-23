@@ -135,18 +135,28 @@ This is Ceballos' Missa Simile est regnum cælorum (parody mass based on a motet
 /Missa15.6_AgnusII_FullMovement_f150v-152r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 
 ### 16. Missa de Bomba (Pedro Bermúdez)
-- [Kyrie]
-- [Gloria]
-- [Credo]
-- [Sanctus]
-- [Agnus]
+- [Kyrie](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/16_Pedro-Bermudez_Mass
+/Missa16.1_Kyrie_FullMovement_f152v-154r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
+- [Gloria](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/16_Pedro-Bermudez_Mass
+/Missa16.2_Gloria_FullMovement_f154v-158r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
+- [Credo](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/16_Pedro-Bermudez_Mass
+/Missa16.3_Credo_FullMovement_f158v-165r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
+- [Sanctus](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/16_Pedro-Bermudez_Mass
+/Missa16.4_Sanctus_FullMovement_f165v-168r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
+- [Agnus](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/16_Pedro-Bermudez_Mass
+/Missa16.5_Agnus_FullMovement_f168v-169r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 
 ### 17. Missa sine nomine (Juan Matias de Rivera)
-- [Kyrie]
-- [Gloria]
-- [Credo]
-- [Sanctus]
-- [Agnus]
+- [Kyrie](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/17_Juan-Matias-de-Rivera_Mass
+/Missa17.1_Kyrie_FullMovement_f169v-171r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
+- [Gloria](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/17_Juan-Matias-de-Rivera_Mass
+/Missa17.2_Gloria_FullMovement_f171v-173r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
+- [Credo](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/17_Juan-Matias-de-Rivera_Mass
+/Missa17.3_Credo_FullMovement_f173v-177r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
+- [Sanctus](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/17_Juan-Matias-de-Rivera_Mass
+/Missa17.4_Sanctus_FullMovement_f177v-179r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
+- [Agnus](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/17_Juan-Matias-de-Rivera_Mass
+/Missa17.5_Agnus_FullMovement_f179v-180r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 
 ### 18. Christus natus est (Pedro Bermúdez)
 - [Piece]
