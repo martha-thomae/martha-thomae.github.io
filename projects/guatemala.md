@@ -81,66 +81,66 @@ First published in the composer's Missarum liber secundus in 1567 (RISM P 660)
 
 ### 8. Missa Pere de nous (Pierre Colin)
 Also published at Lyon in 1546 by Jacques Moderne in his Liturgicon musicarum duodecim missarum (RISM C 3310).
-- Kyrie
-- Gloria
-- Credo
-- Sanctus
-- Agnus
+- [Kyrie](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/07_Giovanni-Pierluigi-da-Palestrina_Mass/Missa8.1_Kyrie_FullMovement_f43v-44r_MENSURAL_FULLSCORE.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
+- [Gloria](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/07_Giovanni-Pierluigi-da-Palestrina_Mass/Missa8.2_Gloria_FullMovement_f44v-47r_MENSURAL_FULLSCORE.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
+- [Credo](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/07_Giovanni-Pierluigi-da-Palestrina_Mass/Missa8.3_Credo_FullMovement_f47v-52r_MENSURAL_FULLSCORE.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
+- [Sanctus](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/07_Giovanni-Pierluigi-da-Palestrina_Mass/Missa8.4_Sanctus_FullMovement_f52v-53r_MENSURAL_FULLSCORE.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
+- [Agnus](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/07_Giovanni-Pierluigi-da-Palestrina_Mass/Missa8.5_Agnus_FullMovement_f53v-54r_MENSURAL_FULLSCORE.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 
 ### 9. Missa de 3er tono (Rodrigo de Ceballos)
 Missa tertii toni, which is preserved in at least ten other sources.
-- Kyrie
-- Gloria
-- Credo
-- Sanctus
-- Agnus I
-- Agnus II
+- [Kyrie]
+- [Gloria]
+- [Credo]
+- [Sanctus]
+- [Agnus I]
+- [Agnus II]
 
 ### 10. Missa sine nomine (José de Torres y Martínez Bravo)
-- Kyrie
-- Gloria
-- Credo
-- Sanctus
-- Agnus I
-- Agnus II
+- [Kyrie]
+- [Gloria]
+- [Credo]
+- [Sanctus]
+- [Agnus I]
+- [Agnus II]
 
 ### 11. Missa O quam gloriosum (Tomás Luis de Victoria)
-- Kyrie
-- Gloria
-- Credo
-- Sanctus
-- Agnus
+- [Kyrie]
+- [Gloria]
+- [Credo]
+- [Sanctus]
+- [Agnus]
 
 ### 12. Missa Ave maris stella (Tomás Luis de Victoria)
-- Kyrie
-- Gloria
-- Credo
-- Sanctus
-- Agnus
+- [Kyrie]
+- [Gloria]
+- [Credo]
+- [Sanctus]
+- [Agnus]
 
 ### 13. Missa de 5to tono (Maestro Serra)
-- Kyrie
-- Gloria
-- Credo
-- Sanctus
-- Agnus
+- [Kyrie]
+- [Gloria]
+- [Credo]
+- [Sanctus]
+- [Agnus]
 
 ### 14. Missa de 4to tono (Alegre)
-- Kyrie
-- Gloria
-- Credo
-- Sanctus
-- Agnus I
-- Agnus II
+- [Kyrie]
+- [Gloria]
+- [Credo]
+- [Sanctus]
+- [Agnus I]
+- [Agnus II]
 
 ### 15. Missa de 8to tono (Rodrigo de Ceballos)
 This is Ceballos' Missa Simile est regnum cælorum (parody mass based on a motet by Morales).
-- Kyrie
-- Gloria
-- Credo
-- Sanctus
-- Agnus I
-- Agnus II
+- [Kyrie]
+- [Gloria]
+- [Credo]
+- [Sanctus]
+- [Agnus I]
+- [Agnus II]
 
 ### 16. Missa de Bomba (Pedro Bermúdez)
 - Kyrie
