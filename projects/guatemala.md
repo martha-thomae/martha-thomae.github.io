@@ -63,7 +63,7 @@ The work that allows to use the output of MuRET as input to the MP Editor and th
 	- [Agnus](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/06_Cristobal-de-Morales_Mass/Missa6.5_Agnus_FullMovement_f30v-31r_MENSURAL_FULLSCORE.xml&scale=31&breaks=none&select=PARTfec4a0f0-f272-45e4-b85f-9ac2b52291cb_A92e169f8-5eac-4c36-8d7a-ab6feb4bb118&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 7. Missa sine nomine (Palestrina)
 	First published in the composer's Missarum liber secundus in 1567 (RISM P 660)
-	- Kyrie
+	- [Kyrie](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/07_Giovanni-Pierluigi-da-Palestrina_Mass/Missa7.1_Kyrie_FullMovement_f31v-33r_MENSURAL_FULLSCORE.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 	- Gloria
 	- Credo
 	- Sanctus
