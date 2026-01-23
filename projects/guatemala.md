@@ -38,29 +38,29 @@ The work that allows to use the output of MuRET as input to the MP Editor and th
 ## Corpus
 
 ### 1. Asperges me (Anonymous or Pedro Bermúdez)
-- Section 1
-- Section 2
-- Section 3
+- [Section 1]
+- [Section 2]
+- [Section 3]
 
 ### 2. Asperges me (Anonymous)
-- Section 1
-- Section 2
-- Section 3
+- [Section 1]
+- [Section 2]
+- [Section 3]
 
 ### 3. Vidi aquam (Pedro Bermúdez)
-- Section 1
-- Section 2
-- Section 3
+- [Section 1]
+- [Section 2]
+- [Section 3]
 
 ### 4. Vidi aquam (Hernando Franco)
-- Section 1
-- Section 2
-- Section 3
+- [Section 1]
+- [Section 2]
+- [Section 3]
 
 ### 5. Asperges me (Trujillo)
-- Section 1
-- Section 2
-- Section 3
+- [Section 1]
+- [Section 2]
+- [Section 3]
 
 ### 6. Missa sobre las voces (Cristóbal de Morales)
 His hexachord mass (Ut re mi fa sol la). Peserved in only three other sources: a manuscript at the Capilla Real in Granada, the manuscript formerly known as Medinaceli 607 and now owned by Bartolomé March Servera, and Tarazona 5.
@@ -148,51 +148,51 @@ This is Ceballos' Missa Simile est regnum cælorum (parody mass based on a motet
 - [Agnus II]
 
 ### 16. Missa de Bomba (Pedro Bermúdez)
-- Kyrie
-- Gloria
-- Credo
-- Sanctus
-- Agnus
+- [Kyrie]
+- [Gloria]
+- [Credo]
+- [Sanctus]
+- [Agnus]
 
 ### 17. Missa sine nomine (Juan Matias de Rivera)
-- Kyrie
-- Gloria
-- Credo
-- Sanctus
-- Agnus
+- [Kyrie]
+- [Gloria]
+- [Credo]
+- [Sanctus]
+- [Agnus]
 
 ### 18. Christus natus est (Pedro Bermúdez)
-- Piece
+- [Piece]
 
 ### 19. Christus natus est (Pedro Bermúdez)
-- Section 1
-- Section 2
+- [Section 1]
+- [Section 2]
 
 ### 20. Christus natus est (Anonymous)
-- Piece
+- [Piece]
 
 ### 21. Surrexit Dominus vere (Anonymous)
-- Section 1
-- Section 2
+- [Section 1]
+- [Section 2]
 
 ### 22. Lumen ad revelationem (Hernando Franco)
-- Piece
+- [Piece]
 
 ### 23. Lumen ad revelationem (Pedro Bermúdez)
-- Piece
+- [Piece]
 
 ### 24. Lumen ad revelationem (Pedro Bermúdez)
-- Piece
+- [Piece]
 
 ### 25. Surrexit Dominus vere (Anonymous)
-- Piece
+- [Piece]
 
 ### 26. Victimae paschali laudes (Francisco Guerrero)
-- Section 1 & 2
-- Section 3
+- [Section 1 & 2]
+- [Section 3]
 
 ### 27. Tantum ergo (Pedro Bermúdez)
-- Piece
+- [Piece]
 
 
 
