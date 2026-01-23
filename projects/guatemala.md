@@ -89,12 +89,12 @@ Also published at Lyon in 1546 by Jacques Moderne in his Liturgicon musicarum du
 
 ### 9. Missa de 3er tono (Rodrigo de Ceballos)
 Missa tertii toni, which is preserved in at least ten other sources.
-- [Kyrie]
-- [Gloria]
-- [Credo]
-- [Sanctus]
-- [Agnus I]
-- [Agnus II]
+- [Kyrie](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/07_Giovanni-Pierluigi-da-Palestrina_Mass/Missa9.1_Kyrie_FullMovement_f54v-56r_MENSURAL_FULLSCORE.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
+- [Gloria](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/07_Giovanni-Pierluigi-da-Palestrina_Mass/Missa9.2_Gloria_FullMovement_f56v-60r_MENSURAL_FULLSCORE.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
+- [Credo](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/07_Giovanni-Pierluigi-da-Palestrina_Mass/Missa9.3_Credo_FullMovement_f60v-66r_MENSURAL_FULLSCORE.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
+- [Sanctus](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/07_Giovanni-Pierluigi-da-Palestrina_Mass/Missa9.4_Sanctus_FullMovement_f66v-68r_MENSURAL_FULLSCORE.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
+- [Agnus I](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/07_Giovanni-Pierluigi-da-Palestrina_Mass/Missa9.5_Agnus_FullMovement_f68v-70r_MENSURAL_FULLSCORE.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
+- [Agnus II](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/07_Giovanni-Pierluigi-da-Palestrina_Mass/Missa9.6_AgnusII_FullMovement_f70v-71r_MENSURAL_FULLSCORE.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 
 ### 10. Missa sine nomine (José de Torres y Martínez Bravo)
 - [Kyrie]
