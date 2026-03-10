@@ -7,7 +7,7 @@ title: Guatemala City's Cathedral Polyphonic Choirbook 1 - Symbolic Corpus
 
 Here is the list of all the works contained in the first polyphonic choirbook held at the Archivo Histórico Arquidiocesano de Guatemala (AHAG). The 12 masses are divided into movements, and the 15 short polyphonic pieces are divided into sections. Clicking on the links provided for each movement of the masses (or sections of the pieces) will open the movement (or section) in _mei-friend_, where you will be able to see the transcribed score with the editorial corrections marked in a different color, together with the original images and the ability to play back the music, just as shown in the image below:
 
-<img src="/assets/images/mei-friend-example_Mass11.4.2.png.png" alt="pieces as visualized in mei-friend">
+<img src="/assets/images/mei-friend-example_Mass11.4.2.png" alt="pieces as visualized in mei-friend">
 
 ### 1. Asperges me (Anonymous or Pedro Bermúdez)
 - [Asperges](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/01_Anonymous-OR-Bermudez_Asperges-me/Piece1_Asperges-me_Section1_f1v-2r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
