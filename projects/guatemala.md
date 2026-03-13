@@ -86,14 +86,12 @@ Added in the 18th century.
 - [Confitemini](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/04_Franco_Vidi-aquam/Piece4_Vidi-aquam_Section2_f12v-13r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 - [Gloria](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/04_Franco_Vidi-aquam/Piece4_Vidi-aquam_Section3_f13v-14r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 
-
 ### 5. Asperges me - [Alonso Trujillo]
 
 Added in the 18th century.
 - [Asperges](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/05_Trujillo_Asperges-me/Piece5_Vidi-aquam_Section1_f14v-15r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 - [Miserere](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/05_Trujillo_Asperges-me/Piece5_Vidi-aquam_Section2_f15v-16r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 - [Gloria](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/05_Trujillo_Asperges-me/Piece5_Vidi-aquam_Section3_f16v-17r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
-
 
 ### 6. Missa sobre las voces - Cristóbal de Morales
 
@@ -113,7 +111,6 @@ From the 1602 Libro de Kyries, copied by Gaspar Fernández. This is the _Missa s
 - [Sanctus](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/07_Giovanni-Pierluigi-da-Palestrina_Mass/Missa7.4_Sanctus_FullMovement_f38v-41r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 - [Agnus I](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/07_Giovanni-Pierluigi-da-Palestrina_Mass/Missa7.5_AgnusI_FullMovement_f41v-42r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 - [Agnus II](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/07_Giovanni-Pierluigi-da-Palestrina_Mass/Missa7.6_AgnusII_FullMovement_f42v-43r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
-
 
 ### 8. Missa Pere de nous - Pierre Colin
 
@@ -143,7 +140,6 @@ Added in the 18th century.
 - [Sanctus](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/10_Jose-de-Torres-y-Martinez-Bravo_Mass/Missa10.4_Sanctus_FullMovement_f81v-83r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 - [Agnus I](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/10_Jose-de-Torres-y-Martinez-Bravo_Mass/Missa10.5_AgnusI_FullMovement_f83v-84r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 - [Agnus II](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/10_Jose-de-Torres-y-Martinez-Bravo_Mass/Missa10.6_AgnusII_FullMovement_f84v-85r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
-
 
 ### 11. Missa O quam gloriosum - Tomás Luis de Victoria
 
@@ -244,7 +240,6 @@ Added in the 18th century.
 
 Added in the 18th century.
 - [Full Piece](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/24_Pedro-Bermudez_Lumen-ad-revelationem/Piece24_Lumen-ad-revelationem_FullPiece_f188v-189r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
-
 
 ### 25. Surrexit Dominus vere - Anonymous
 
