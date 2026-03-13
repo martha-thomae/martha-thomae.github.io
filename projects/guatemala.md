@@ -58,38 +58,6 @@ In the next section, you will find the inventory table of all the pieces in the 
 
 Here is the table inventoring the contents of the GCA-Gaha 1. Click on the links to open the pieces in mei-friend, where you will have access to a **kind of "virtual exhibition"** showing the transcriptions, with editorial corrections shown in green; the original images; the link between the transcription, images, and encoding; and playback, just as explained in the last paragraph of the previous section. **Have a look!**
 
-<table>
-	<tr>
-		<th>No.</th>
-		<th>Title</th>
-		<th>Composer</th>
-		<th>Files</th>
-		<th>Comments</th>
-	</tr>
-	<tr>
-		<td>1</td>
-		<td>Asperges me</td>
-		<td>[Pedro Bermúdez?]</td>
-		<td>
-			<a href="https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/01_Anonymous-OR-Bermudez_Asperges-me/Piece1_Asperges-me_Section1_f1v-2r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54">Asperges</a> -
-			<a href="https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/01_Anonymous-OR-Bermudez_Asperges-me/Piece1_Asperges-me_Section2_f2v-3r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54">Miserere</a> -
-			<a href="https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/01_Anonymous-OR-Bermudez_Asperges-me/Piece1_Asperges-me_Section3_f3v-4r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54">Gloria</a>
-		</td>
-		<td>Added in the 18th centry</td>
-	</tr>
-	<tr>
-		<td>2</td>
-		<td>Asperges me</td>
-		<td>Anonymous</td>
-		<td>
-			<a href="https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/02_Anonymous_Asperges-me/Piece2_Asperges-me_Section1_f4v-6r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54">Asperges</a> - 
-			<a href="https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/02_Anonymous_Asperges-me/Piece2_Asperges-me_Section2_f5v-6r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54">Miserere</a> - 
-			<a href="https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/02_Anonymous_Asperges-me/Piece2_Asperges-me_Section3_f6v-7r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54">Gloria</a>
-		</td>
-		<td>Added in the 18th centry</td>
-	</tr>
-</table>
-
 | No. | Title | Composer | Files | Comments |
 | --- | ----- | -------- | ----- | -------- |
 | 1 | Asperges me | [Pedro Bermúdez?] | [Asperges](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/01_Anonymous-OR-Bermudez_Asperges-me/Piece1_Asperges-me_Section1_f1v-2r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54) - [Miserere](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/01_Anonymous-OR-Bermudez_Asperges-me/Piece1_Asperges-me_Section2_f2v-3r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54) - [Gloria](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/01_Anonymous-OR-Bermudez_Asperges-me/Piece1_Asperges-me_Section3_f3v-4r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54) | Added in the 18th centry |
