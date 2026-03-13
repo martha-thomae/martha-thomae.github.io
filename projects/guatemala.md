@@ -32,7 +32,7 @@ The work that allows to use the output of MuRET as input to the MP Editor and th
 	<figcaption style="font-size:15pt; font-style:italic">Summary of the digitization and encoding pipeline</figcaption>
 </figure>
 
-## Symbolic Corpus
+# Symbolic Corpus
 
 This choirbook has a few sigla associated to it: 
 - _**GuatC 1**_, according to the Census Catalogue.
@@ -54,7 +54,7 @@ In the next section, you will find the inventory table of all the pieces in the 
 **Important note:** Please make sure that you are using Chrome or Firefox, _mei-friend_ does not work well with Safari.
 <img src="/assets/images/mei-friend-example_Mass11.4.2.png" alt="pieces as visualized in mei-friend" width="1000">
 
-### GCA-Gaha 1: Inventory and Virtual Exhibition
+## GCA-Gaha 1: Inventory and Virtual Exhibition
 
 Here is the table inventoring the contents of the GCA-Gaha 1. Click on the links to open the pieces in mei-friend, where you will have access to a **kind of "virtual exhibition"** showing the transcriptions, with editorial corrections shown in green; the original images; the link between the transcription, images, and encoding; and playback, just as explained in the last paragraph of the previous section. **Have a look!**
 
