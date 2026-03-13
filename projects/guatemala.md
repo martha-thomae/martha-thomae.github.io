@@ -32,7 +32,9 @@ The work that allows to use the output of MuRET as input to the MP Editor and th
 	<figcaption style="font-size:15pt; font-style:italic">Summary of the digitization and encoding pipeline</figcaption>
 </figure>
 
-## The Corpus: The GCA-Gaha 1 Choirbook
+----------------
+
+# The Corpus: The GCA-Gaha 1 Choirbook
 
 This choirbook has a few sigla associated to it: 
 - _**GuatC 1**_, according to the Census Catalogue.
@@ -45,7 +47,9 @@ The following two images show the title page, which indicate that this book was 
 
 <img src="/assets/images/titlepage.jpg" alt="title page" width="400"/> <img src="/assets/images/indexpage.jpg" alt="index page" width="400"/>
 
-## Virtual Exhibition & Inventory
+---------
+
+# Virtual Exhibition & Inventory
 
 In the next section, you will find the [inventory list](.#inventory-list) of all the pieces in the choirbook. This inventory includes links to mass movements (or work sections) that, when clicked on, will open the corresponding movement (or section) in _mei-friend_, where the user will be able to:
 
@@ -59,7 +63,7 @@ In the next section, you will find the [inventory list](.#inventory-list) of all
 
 ------
 
-### Inventory List
+## Inventory List
 
 Here is the **list inventoring** the contents of the GCA-Gaha 1 (the composer attribution was provided by Guatemalan Musicologist Omar Morales Abril). Click on the links to open the pieces in _mei-friend_, where you will have access to a kind of **"virtual exhibition"** showing the transcriptions, with editorial corrections in green; the original images; the link between the transcription, images, and encoding; and playback, just as explained in the previous paragraph. **Click on the links! Have a look!**
 
