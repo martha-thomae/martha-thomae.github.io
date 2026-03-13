@@ -91,7 +91,9 @@ Here is the table inventoring the contents of the GCA-Gaha 1. Click on the links
 
 \* _The "composer attribution" shown in the table was conducted by Guatemalan Musicologist **Omar Morales Abril**._
 
-The original files can be found at the [GuatC1 GitHub repository - main branch](https://github.com/martha-thomae/GuatC1/tree/main). (_There is also a secondary branch to visualize all the intermediate files obtained through OMR and the MP Editor, called `all_data_omr_and_mped`, but it is linked through the main branch's README.)_
+The original files can be found at the [GuatC1 GitHub repository - main branch](https://github.com/martha-thomae/GuatC1/tree/main).
+
+_(There is also a secondary branch to visualize all the intermediate files obtained through OMR and the MP Editor, called `all_data_omr_and_mped`, but it is linked through the main branch's README.)_
 
 ## Extra information
 
