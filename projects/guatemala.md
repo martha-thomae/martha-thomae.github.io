@@ -25,15 +25,12 @@ Since we are dealing with mensural notation, however, recognizing the music symb
 
 The work that allows to use the output of MuRET as input to the MP Editor and the work that allows to use the DF Filter in the MP Editor is contained in the last two sections of [this paper](https://hcommons.org/deposits/item/hc:45973/). I conducted some testing of the efficiency of using the DF filter to help catching and correcting scribal errors in an automatically scored-up piece within the MP Editor, the experiment and results can be consulted in [this paper](/assets/papers/thomae_2022_ismir_counterpoint_publication.pdf) and summarized in this [poster](/assets/papers/poster-ismir_submission44.pdf) and [video](https://youtu.be/lQpYktuFFlc).
 
-
 ## Summary of the Complete Work
 
 <figure>
 	<iframe width="420" height="315" src="https://www.youtube.com/embed/aNpDpPOyOMY" frameborder="0" allowfullscreen></iframe>
 	<figcaption style="font-size:15pt; font-style:italic">Summary of the digitization and encoding pipeline</figcaption>
 </figure>
-
-
 
 ## Symbolic Corpus
 
@@ -45,7 +42,8 @@ This choirbook has a few sigla associated to it:
 The choirbook is a Book of Masses. It contains twelve masses: six of them copied from another book (a _Libro de Kyries_ copied by Gaspar Fernandes in 1602), and the other six were added by Manuel José de Quirós in the eighteenth century. It also includes fifteen short pieces, which consists of polyphonic settings of chants (e.g., _Asperges me_ and _Vidi aquam_). 
 
 The following two images show the title page, which indicate that this book was copied from a previous one copied by Gaspar Fernandes in 1602 and to which six new masses were added by Manuel Joseph de Quirós in 176[0], and the index page, which lists the twelve masses according to these two groups (the ones from the 1602 book and the one sadded later).
-<img src="/assets/images/titlepage.jpg" alt="title page" width="500"/> <img src="/assets/images/indexpage.jpg" alt="index page" width="500"/>
+
+<img src="/assets/images/titlepage.jpg" alt="title page" width="400"/> <img src="/assets/images/indexpage.jpg" alt="index page" width="400"/>
 
 In the next section, you will find the inventory table of all the pieces in the choirbook. This table includes links to mass movements (or work sections) that, when clicked on, will open the corresponding movement (or section) in _mei-friend_, where the user will be able to:
 1. Visualize the transcription of the piece, with notes in green for editorial corrections;
@@ -54,8 +52,8 @@ In the next section, you will find the inventory table of all the pieces in the 
 4. Play back the music using the speaker button in the lower-left corner.
 
 **Important note:** Please make sure that you are using Chrome or Firefox, _mei-friend_ does not work well with Safari.
-<img src="/assets/images/mei-friend-example_Mass11.4.2.png" alt="pieces as visualized in mei-friend" width="1000">
 
+<img src="/assets/images/mei-friend-example_Mass11.4.2.png" alt="pieces as visualized in mei-friend" width="1000">
 
 ### GCA-Gaha 1: Inventory and Virtual Exhibition
 
