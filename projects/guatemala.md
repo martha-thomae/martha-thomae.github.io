@@ -33,6 +33,7 @@ The work that allows to use the output of MuRET as input to the MP Editor and th
 </figure>
 
 ----------------
+----------------
 
 # The Corpus: The GCA-Gaha 1 Choirbook
 
@@ -47,7 +48,7 @@ The following two images show the title page, which indicate that this book was 
 
 <img src="/assets/images/titlepage.jpg" alt="title page" width="400"/> <img src="/assets/images/indexpage.jpg" alt="index page" width="400"/>
 
----------
+---------------
 
 # Virtual Exhibition & Inventory
 
@@ -61,7 +62,7 @@ In the next section, you will find the [inventory list](.#inventory-list) of all
 **Important note:** Please make sure that you are using Chrome or Firefox, _mei-friend_ does not work well with Safari.
 <img src="/assets/images/mei-friend-example_Mass11.4.2.png" alt="pieces as visualized in mei-friend" width="1000">
 
-------
+---------------
 
 ## Inventory List
 
@@ -266,13 +267,14 @@ Added in the 18th century.
 Added in the 18th century.
 - [Full Piece](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/27_Bermudez_Tantum-ergo/Piece27_Tantum-ergo_FullPiece_f192v-193r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 
-----
+---------------
 
 The original files can be found at the [GuatC1 GitHub repository - main branch](https://github.com/martha-thomae/GuatC1/tree/main).
 
 _(There is also a secondary branch to visualize all the intermediate files obtained through OMR and the MP Editor, called `all_data_omr_and_mped`, but it is linked through the main branch's README.)_
 
-----
+----------------
+----------------
 
 ## Extra information
 
