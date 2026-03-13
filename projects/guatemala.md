@@ -47,7 +47,7 @@ The following two images show the title page, which indicate that this book was 
 
 ## Virtual Exhibition & Inventory
 
-In the next section, you will find the [inventory list](.###) of all the pieces in the choirbook. This inventory includes links to mass movements (or work sections) that, when clicked on, will open the corresponding movement (or section) in _mei-friend_, where the user will be able to:
+In the next section, you will find the [inventory list](.#inventory-list) of all the pieces in the choirbook. This inventory includes links to mass movements (or work sections) that, when clicked on, will open the corresponding movement (or section) in _mei-friend_, where the user will be able to:
 
 1. Visualize the transcription of the piece, with notes in green for editorial corrections;
 2. Visualize the original images (we will call these _facsimile_ from now on);
