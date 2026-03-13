@@ -32,7 +32,7 @@ The work that allows to use the output of MuRET as input to the MP Editor and th
 	<figcaption style="font-size:15pt; font-style:italic">Summary of the digitization and encoding pipeline</figcaption>
 </figure>
 
-# Symbolic Corpus
+## The Corpus: The GCA-Gaha 1 Choirbook
 
 This choirbook has a few sigla associated to it: 
 - _**GuatC 1**_, according to the Census Catalogue.
@@ -45,7 +45,10 @@ The following two images show the title page, which indicate that this book was 
 
 <img src="/assets/images/titlepage.jpg" alt="title page" width="400"/> <img src="/assets/images/indexpage.jpg" alt="index page" width="400"/>
 
-In the next section, you will find the inventory of all the pieces in the choirbook. This inventory includes links to mass movements (or work sections) that, when clicked on, will open the corresponding movement (or section) in _mei-friend_, where the user will be able to:
+## Virtual Exhibition & Inventory
+
+In the next section, you will find the [inventory list](.###) of all the pieces in the choirbook. This inventory includes links to mass movements (or work sections) that, when clicked on, will open the corresponding movement (or section) in _mei-friend_, where the user will be able to:
+
 1. Visualize the transcription of the piece, with notes in green for editorial corrections;
 2. Visualize the original images (we will call these _facsimile_ from now on);
 3. Explore the piece thanks to the link that exists between the transcription, encoding, and facsimile. Just click on the border of the bounding boxes of the systems/staffs in the facsimile (so it is highlighted in blue), and you will be conducted to the first note/rest of that system in the transcription (which will now be highlighted in blue as well) and to its place in the encoded file (highlighted in orange). **You can see this in the following figure.**
@@ -54,9 +57,11 @@ In the next section, you will find the inventory of all the pieces in the choirb
 **Important note:** Please make sure that you are using Chrome or Firefox, _mei-friend_ does not work well with Safari.
 <img src="/assets/images/mei-friend-example_Mass11.4.2.png" alt="pieces as visualized in mei-friend" width="1000">
 
-## GCA-Gaha 1: Inventory and Virtual Exhibition
+------
 
-Here is the list inventoring the contents of the GCA-Gaha 1 (the composer attribution was provided by Guatemalan Musicologist Omar Morales Abril). Click on the links to open the pieces in mei-friend, where you will have access to a **kind of "virtual exhibition"** showing the transcriptions, with editorial corrections shown in green; the original images; the link between the transcription, images, and encoding; and playback, just as explained in the last paragraph of the previous section. **Click on the links! Have a look!**
+### Inventory List
+
+Here is the **list inventoring** the contents of the GCA-Gaha 1 (the composer attribution was provided by Guatemalan Musicologist Omar Morales Abril). Click on the links to open the pieces in _mei-friend_, where you will have access to a kind of **"virtual exhibition"** showing the transcriptions, with editorial corrections in green; the original images; the link between the transcription, images, and encoding; and playback, just as explained in the previous paragraph. **Click on the links! Have a look!**
 
 ### 1. Asperges me - [Pedro Bermúdez?]
 
@@ -262,6 +267,8 @@ Added in the 18th century.
 The original files can be found at the [GuatC1 GitHub repository - main branch](https://github.com/martha-thomae/GuatC1/tree/main).
 
 _(There is also a secondary branch to visualize all the intermediate files obtained through OMR and the MP Editor, called `all_data_omr_and_mped`, but it is linked through the main branch's README.)_
+
+----
 
 ## Extra information
 
