@@ -45,10 +45,7 @@ This choirbook has a few sigla associated to it:
 The choirbook is a Book of Masses. It contains twelve masses: six of them copied from another book (a _Libro de Kyries_ copied by Gaspar Fernandes in 1602), and the other six were added by Manuel José de Quirós in the eighteenth century. It also includes fifteen short pieces, which consists of polyphonic settings of chants (e.g., _Asperges me_ and _Vidi aquam_). 
 
 The following two images show the title page, which indicate that this book was copied from a previous one copied by Gaspar Fernandes in 1602 and to which six new masses were added by Manuel Joseph de Quirós in 176[0], and the index page, which lists the twelve masses according to these two groups (the ones from the 1602 book and the one sadded later).
-
-![titlepage](https://github.com/user-attachments/assets/cbbd55d7-2f5c-4ddd-8576-6969c3a4ef77)
-
-![indexpage](https://github.com/user-attachments/assets/f8a140c4-a978-48c4-93f0-12cba533839e)
+<img src="/assets/images/titlepage.jpg" alt="title page" width="500"/> <img src="/assets/images/indexpage.jpg" alt="index page" width="500"/>
 
 In the next section, you will find the inventory table of all the pieces in the choirbook. This table includes links to mass movements (or work sections) that, when clicked on, will open the corresponding movement (or section) in _mei-friend_, where the user will be able to:
 1. Visualize the transcription of the piece, with notes in green for editorial corrections;
