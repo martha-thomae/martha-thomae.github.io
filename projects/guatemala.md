@@ -56,7 +56,7 @@ In the next section, you will find the inventory of all the pieces in the choirb
 
 ## GCA-Gaha 1: Inventory and Virtual Exhibition
 
-Here is the list inventoring the contents of the GCA-Gaha 1 (the composer attribution was provided by Guatemalan Musicologist Omar Morales Abril). Click on the links to open the pieces in mei-friend, where you will have access to a **kind of "virtual exhibition"** showing the transcriptions, with editorial corrections shown in green; the original images; the link between the transcription, images, and encoding; and playback, just as explained in the last paragraph of the previous section. **Have a look!**
+Here is the list inventoring the contents of the GCA-Gaha 1 (the composer attribution was provided by Guatemalan Musicologist Omar Morales Abril). Click on the links to open the pieces in mei-friend, where you will have access to a **kind of "virtual exhibition"** showing the transcriptions, with editorial corrections shown in green; the original images; the link between the transcription, images, and encoding; and playback, just as explained in the last paragraph of the previous section. **Click on the links! Have a look!**
 
 ### 1. Asperges me - [Pedro Bermúdez?]
 
