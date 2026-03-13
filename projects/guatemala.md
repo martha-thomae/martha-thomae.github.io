@@ -52,7 +52,6 @@ In the next section, you will find the inventory table of all the pieces in the 
 4. Play back the music using the speaker button in the lower-left corner.
 
 **Important note:** Please make sure that you are using Chrome or Firefox, _mei-friend_ does not work well with Safari.
-
 <img src="/assets/images/mei-friend-example_Mass11.4.2.png" alt="pieces as visualized in mei-friend" width="1000">
 
 ### GCA-Gaha 1: Inventory and Virtual Exhibition
