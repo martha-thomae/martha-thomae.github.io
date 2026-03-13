@@ -46,9 +46,18 @@ The choirbook is a Book of Masses. It contains twelve masses: six of them copied
 
 The following two images show the title page, which indicate that this book was copied from a previous one copied by Gaspar Fernandes in 1602 and to which six new masses were added by Manuel Joseph de Quirós in 176[0], and the index page, which lists the twelve masses according to these two groups (the ones from the 1602 book and the one sadded later).
 
-Below is the table of all the pieces in the choirbook, with links to mass movements (or work sections) that, when clicked on, will open the corresponding movement (or section) in mei-friend, where the user will be able to visualize the transcription of the piece (with notes in green for editorial corrections); the original images; the link between the transcription, encoding, and images (click on the first note or rest of a system in the transcription, and you will be transported to the place where it appears in both the image and the encoded music); and play back the music, just as shown in the figure below.
+In the next section, you will find the inventory table of all the pieces in the choirbook. This table includes links to mass movements (or work sections) that, when clicked on, will open the corresponding movement (or section) in mei-friend, where the user will be able to:
+1. Visualize the transcription of the piece (with notes in green for editorial corrections);
+2. Visualize the original images (we will call these facsimile from now on);
+3. Explore the piece thanks to the link that exists between the transcription, encoding, and facsimile. Just click on the border of the bounding boxes of the systems/staffs in the facsimile (so it is highlighted in blue) and you will be conducted to the first note/rest of that system in the transcription (which will now be highlighted in blue as well) and to its place in the encoded file (highlighted in orange). You can see this in the following figure.
+4. Play back the music using the speaker button in the lower-left corner.
 
 <img src="/assets/images/mei-friend-example_Mass11.4.2.png" alt="pieces as visualized in mei-friend" width="1000">
+
+
+### GCA-Gaha 1: Inventory and Virtual Exhibition
+
+Here is the table inventoring the contents of the GCA-Gaha 1. Click on the links to open the pieces in mei-friend, where you will have access to a kind of "virtual exhibition" showing the transcriptions (with editorial corrections shown in green color); the original images; and the link between the transcription, images, and encoding; and playback, just as explained in the last paragraph of the previous section.
 
 | No. | Title | Composer | Files | Comments |
 | --- | ----- | -------- | ----- | -------- |
