@@ -276,7 +276,21 @@ _(There is also a secondary branch to visualize all the intermediate files obtai
 ----------------
 ----------------
 
-## Extra information
+# Acknowlegements
 
-- [Report on conditions for the input file of the MP Editor]()
-- [Discussion and improvements to be made]()
+## Guatemala
+I am so thankful to many the Guatemalan conservators, archivists, musicologist, photographers, and conservation and archival institutions that helped me, especially during the digitization part of the project. I would not have been able to complete this initial state of the project without the valuable suppor of:
+- The _Centro de Rescate, Estudios y Análisis Científico del Arte_ (_CREA_), a non-profit institution dedicated to the conservation and restoration of historical and cultural movable heritage (i.e., sculptures, paintings, and paper). Their convervators evaluated the conservation status of the choirbooks, which helped in choosing the book to digitize in this pilot project, and provided conservation treatment to that book prior to digitization. And to the _Fundación Rozas-Botrán_, a foundation manages social development projects in health and culture in Central America and Panama and from which CREA is a part.
+	- _Lucy González Muñoz_, CREA's lead conservator who enthusiastically took on the project, and the two Gabys, who worked on the conservation treatment of the book prior to digitization.
+	- _Thelma Castillo_, Art and Culture consultant at the Rozas-Botrán foundation, who put me in contact with CREA's lead conservator.
+- The _Archivo Histórico Arquidiocesano de Guatemala_ (_AHAG_), the archive holding these Cathedral choirbooks and that allow me to conduct this pilot project.
+	- _Father Eddy René Calvillo_, chancellor of the Ecclesiastical Curia of Santiago de Guatemala and director of the AHAG, for his approval of the project.
+	- _Alejandro Conde_, archivist, for his advice and support during the process.
+- The _Centro de Investigaciones Regionales de Mesoamérica_ (_CIRMA_). This institution holds the microfilms of many of the music assets of the AHAG. Special thanks to:
+	- _Guisela Asensio Lueg_, CIRMA’s general director. She provided me with the contact of the photographer that was hired for the project.
+ 	- _Thelma Porres Morfin_, director of CIRMA’s historical archive. She showed me the microfilms that contain part of the music collection of the AHAG and provided me with background information about their history.
+  	- _María de los Ángeles Ávila de León_, photo library assistant. She kindly offered to help me for free during the digitization process. Due to scheduling conflicts, she was not the photographer involved in the project, but offered assistance and advice. 
+- _Omar Morales Abril_, musicologist, for his advice during the whole project. In addition to being a great supporter of this project and to his great advice, he provided the metadata (specially that of composer attribution) for the selected choirbook.
+- Daniel Hernández-Salazar, professional photographer hired. Hernández Salazar is an artistic photographer. He helped setting up the camera parameters and equipment the first session and provided me with useful advice and guidance (e.g., the inclusion of the verso number in the photraph itself by printing the number of small pieces of paper placed at one side of the color patch was his suggestion). Given that there was no digitization technician with expertise on handling special collections (this is not a common profession in the country), the handling of the manuscript and digitization process was conducted by me under advice of several institutions included below.
+
+## Canada
