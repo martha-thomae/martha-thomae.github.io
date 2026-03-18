@@ -253,7 +253,7 @@ _(There is also a secondary branch to visualize all the intermediate files obtai
 
 # Acknowledgements
 
-## Guatemalan Institutions and Colleagues
+## 🇬🇹 Guatemalan Institutions and Colleagues
 I am very thankful to the many Guatemalan conservators, archivists, musicologists, photographers, and conservation and archival institutions that supported this project, especially during the digitization stage. I would not have been able to complete this initial phase of the project without the valuable support of:
 
 The **Centro de Rescate, Estudios y Análisis Científico del Arte** (**CREA**), a non-profit institution dedicated to the conservation and restoration of historical and cultural movable heritage (i.e., sculptures, paintings, and paper). Its conservators evaluated the condition of the choirbooks, which helped determine the book selected for this pilot project, and provided conservation treatment prior to digitization. I also thank the **Fundación Rozas-Botrán**, which manages social development projects in health and culture in Central America and Panama and of which CREA is a part.
@@ -276,7 +276,7 @@ I extend my gratitude towards:
 
 - - - - - 
 
-## Digitization Part (External Institutions)
+## 📷 Digitization Part (External Institutions)
 
 I also thank the experts who provided advice before and during the digitization process. I received support from specialists at three institutions working on digitization projects involving special collections, cultural heritage materials, and music manuscripts:
 
@@ -300,7 +300,7 @@ Finally, thanks to **Professor Eun Park** and **colleagues from the _Preservatio
 
 - - - - - 
 
-## MIR Part
+## 🔎 MIR Part
 I am thankful to everyone involved in the development of _MuRET_, the software used for the _optical music recognition (OMR)_ component. Special thanks to:
 - **David Rizo**, lead developer of MuRET
 - **Jorge Calvo-Zaragoza** and **Antonio Ríos-Vila**, for the symbol recognition models
@@ -326,7 +326,7 @@ I also acknowledge the developers of _mei-friend_ (David Weigl and Werner Goebl)
 
 - - - - - 
 
-## Supporters
+## 🔥 Supporters
 Supervisors **Julie E. Cumming** and **Ichiro Fujinaga**, for their invaluable guidance, and the **Fonds de recherche du Québec – Société et culture (FRQSC), doctoral grant (2019-B2Z-261749)** for funding this project.
 
 I also acknowledge the valuable contributions of: _Virginia Golcher_, _Ana Miriam López_, _Karla Lou_, _Anneliese Thomae_, _Emilio Rós Fábregas_, _Andrés Lou_, _Juan Pablo Pira Martínez_, and _Ana Patricia Elías López de Thomae_, who supported me in various ways, ranging from sharing knowledge on conservation and musicological research in Guatemala to assisting with filming the digitization process.
