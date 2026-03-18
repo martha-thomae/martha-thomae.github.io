@@ -274,6 +274,8 @@ I extend my gratitude towards:
 - **Daniel Hernández-Salazar** (artistic photographer), the professional photographer hired for this project. He assisted in setting up the camera and equipment during the first session and provided valuable guidance (e.g., including the verso number directly in the photograph using printed labels placed beside the color patch). As there was no digitization technician specialized in handling special collections, the manuscript handling and digitization were carried out by me under the guidance of several institutions listed below.
 - **José German Thomae Villela** (father), for designing and constructing the book cradle according to the requirements provided.
 
+- - - - - 
+
 ## Digitization Part (External Institutions)
 
 I also thank the experts who provided advice before and during the digitization process. I received support from specialists at three institutions working on digitization projects involving special collections, cultural heritage materials, and music manuscripts:
@@ -296,6 +298,8 @@ For their extensive email support throughout the project. Many aspects of the di
 
 Finally, thanks to **Professor Eun Park** and **colleagues from the _Preservation Management_ course** (McGill). Through this course, I gained valuable knowledge and connected with professionals at BAnQ and McGill Library. I am also grateful to my classmates, for their advice and encouragement.
 
+- - - - - 
+
 ## MIR Part
 I am thankful to everyone involved in the development of _MuRET_, the software used for the _optical music recognition (OMR)_ component. Special thanks to:
 - **David Rizo**, lead developer of MuRET
@@ -313,11 +317,15 @@ Regarding the _scoring up_ stage carried out in the _Measuring Polyphony (MP) Ed
  
 I also acknowledge the developers of _mei-friend_ (David Weigl and Werner Goebl), _Verovio_ (Laurent Pugin), and the _MEI Community_, without whom this work would not have been possible. Special thanks to Werner Goebl for resolving an issue with the facsimile view of mensural voices distributed across the book opening, and to Anna Plaksin for her work on editorial markup display.
 
+- - - - - 
+
 ## Editorial Correction and Final Corpus
 - **Geneviève Gates-Panneton**, for experimenting with the dissonant filter in the MP Editor
 - **Ellis Reyes**, for proofreading the transcriptions of the entire corpus and making editorial decisions regarding ficta.
 - **Peter Schubert** and **Julie E. Cumming**, for their advice on problematic passages
-	
+
+- - - - - 
+
 ## Supporters
 Supervisors **Julie E. Cumming** and **Ichiro Fujinaga**, for their invaluable guidance, and the **Fonds de recherche du Québec – Société et culture (FRQSC), doctoral grant (2019-B2Z-261749)** for funding this project.
 
