@@ -255,34 +255,38 @@ _(There is also a secondary branch to visualize all the intermediate files obtai
 
 ## Guatemalan Institutions and Colleagues
 I am very thankful to the many Guatemalan conservators, archivists, musicologists, photographers, and conservation and archival institutions that supported this project, especially during the digitization stage. I would not have been able to complete this initial phase of the project without the valuable support of:
-- The __Centro de Rescate, Estudios y Análisis Científico del Arte__ (__CREA__), a non-profit institution dedicated to the conservation and restoration of historical and cultural movable heritage (i.e., sculptures, paintings, and paper). Its conservators evaluated the condition of the choirbooks, which helped determine the book selected for this pilot project, and provided conservation treatment prior to digitization. I also thank the __Fundación Rozas-Botrán__, which manages social development projects in health and culture in Central America and Panama and of which CREA is a part.
-	- __Lucy González Muñoz__, CREA's lead conservator, who enthusiastically took on the project, and the two Gabys, who carried out the conservation treatment of the book prior to digitization.
-	- __Thelma Castillo__, Art and Culture consultant at the Rozas-Botrán Foundation, who put me in contact with CREA.
 
-- The __Archivo Histórico Arquidiocesano de Guatemala__ (__AHAG__), the archive holding these Cathedral choirbooks and which allowed me to conduct this pilot project.
-	- __Father Eddy René Calvillo__, Chancellor of the Ecclesiastical Curia of Santiago de Guatemala and Director of the AHAG, for approving the project.
-	- __Alejandro Conde__, archivist, for his advice and support throughout the process.
+The **Centro de Rescate, Estudios y Análisis Científico del Arte** (**CREA**), a non-profit institution dedicated to the conservation and restoration of historical and cultural movable heritage (i.e., sculptures, paintings, and paper). Its conservators evaluated the condition of the choirbooks, which helped determine the book selected for this pilot project, and provided conservation treatment prior to digitization. I also thank the **Fundación Rozas-Botrán**, which manages social development projects in health and culture in Central America and Panama and of which CREA is a part.
+- **Lucy González Muñoz**, CREA's lead conservator, who enthusiastically took on the project, and the two Gabys, who carried out the conservation treatment of the book prior to digitization.
+- **Thelma Castillo**, Art and Culture consultant at the Rozas-Botrán Foundation, who put me in contact with CREA.
 
-- The _Centro de Investigaciones Regionales de Mesoamérica_ (_CIRMA_), which holds microfilms of many of the AHAG's music holdings. Special thanks to:
-	- __Guisela Asensio Lueg__, CIRMA’s General Director, who provided me with the contact of the photographer hired for the project.
- 	- __Thelma Porres Morfín__, Director of CIRMA’s Historical Archive, who showed me the microfilms and provided valuable background information.
-  	- __María de los Ángeles Ávila de León__, Photo Library Assistant, who generously offered her help during the digitization process.
+The **Archivo Histórico Arquidiocesano de Guatemala** (**AHAG**), the archive holding these Cathedral choirbooks and which allowed me to conduct this pilot project.
+- **Father Eddy René Calvillo**, Chancellor of the Ecclesiastical Curia of Santiago de Guatemala and Director of the AHAG, for approving the project.
+- **Alejandro Conde**, archivist, for his advice and support throughout the process.
 
-- __Omar Morales Abril__, musicologist, for his advice throughout the project and for providing the metadata (especially composer attributions) for the selected choirbook.
-- __Daniel Hernández-Salazar__ (artistic photographer), the professional photographer hired for this project. He assisted in setting up the camera and equipment during the first session and provided valuable guidance (e.g., including the verso number directly in the photograph using printed labels placed beside the color patch). As there was no digitization technician specialized in handling special collections, the manuscript handling and digitization were carried out by me under the guidance of several institutions listed below.
-- __José German Thomae Villela__ (father), for designing and constructing the book cradle according to the requirements provided.
+The **Centro de Investigaciones Regionales de Mesoamérica** (**CIRMA**), which holds microfilms of many of the AHAG's music holdings. Special thanks to:
+- **Guisela Asensio Lueg**, CIRMA’s General Director, who provided me with the contact of the photographer hired for the project.
+- **Thelma Porres Morfín**, Director of CIRMA’s Historical Archive, who showed me the microfilms and provided valuable background information.
+- **María de los Ángeles Ávila de León**, Photo Library Assistant, who generously offered her help during the digitization process.
+
+I extend my gratitude towards:
+- **Omar Morales Abril**, musicologist, for his advice throughout the project and for providing the metadata (especially composer attributions) for the selected choirbook.
+- **Daniel Hernández-Salazar** (artistic photographer), the professional photographer hired for this project. He assisted in setting up the camera and equipment during the first session and provided valuable guidance (e.g., including the verso number directly in the photograph using printed labels placed beside the color patch). As there was no digitization technician specialized in handling special collections, the manuscript handling and digitization were carried out by me under the guidance of several institutions listed below.
+- **José German Thomae Villela** (father), for designing and constructing the book cradle according to the requirements provided.
 
 ## Digitization Part (External Institutions)
+
 I also thank the experts who provided advice before and during the digitization process. I received support from specialists at three institutions working on digitization projects involving special collections, cultural heritage materials, and music manuscripts:
+
 - The **McGill Library’s Digital Initiatives**.
-	- **Gregory Houston**, McGill’s New Media & Digitization Administrator, for his recommendations as to where to obtain archival supplies (e.g., snake weights) and suggestions for future improvements to the book scanner.
+  - **Gregory Houston**, McGill’s New Media & Digitization Administrator, for his recommendations as to where to obtain archival supplies (e.g., snake weights) and suggestions for future improvements to the book scanner.
 
 - The **Bibliothèque et Archives nationales du Québec** (**BAnQ**). Special thanks to three BAnQ experts who received me on multiple occasions for consultation on conservation and digitization matters:
-	- **Jessica Régimbald**, conservator at the _direction du dépôt légal et de la conservation des collections patrimoniales_, who advised me on safe manuscript handling, conservation treatments prior to digitization, and the use of platens.
-	- **Marie-Chantal Anctil**, coordinator of the _section de la reproduction et des ateliers audiovisuels and direction de la numérisation_, who advised me on key considerations for building a do-it-yourself (DIY) book scanner.
-   - **Michel Legendre**, photographer (_direction de la numérisation and section de la reproduction_), who advised me on lighting and approved the selected equipment.
+  - **Jessica Régimbald**, conservator at the _direction du dépôt légal et de la conservation des collections patrimoniales_, who advised me on safe manuscript handling, conservation treatments prior to digitization, and the use of platens.
+  - **Marie-Chantal Anctil**, coordinator of the _section de la reproduction et des ateliers audiovisuels and direction de la numérisation_, who advised me on key considerations for building a do-it-yourself (DIY) book scanner.
+  - **Michel Legendre**, photographer (_direction de la numérisation and section de la reproduction_), who advised me on lighting and approved the selected equipment.
 
-	Anctil and Legendre also proposed the open-at-one-side cradle configuration (to solve the issue of keeping the page flat without a platen), which I ultimately adopted.
+  Anctil and Legendre also proposed the open-at-one-side cradle configuration (to solve the issue of keeping the page flat without a platen), which I ultimately adopted.
 
 - The **Digital Image Archive of Medieval Music** (**DIAMM**). Special thanks to:
   - **Julia Craig-McFeely**, Project Manager.
