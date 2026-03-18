@@ -254,23 +254,23 @@ _(There is also a secondary branch to visualize all the intermediate files obtai
 # Acknowledgements
 
 ## Guatemalan Institutions and Colleagues
-I am so thankful to many of the Guatemalan conservators, archivists, musicologists, photographers, and conservation and archival institutions that helped me, especially during the digitization part of the project. I would not have been able to complete this initial state of the project without the valuable support of:
-- The __Centro de Rescate, Estudios y Análisis Científico del Arte__ (__CREA__), a non-profit institution dedicated to the conservation and restoration of historical and cultural movable heritage (i.e., sculptures, paintings, and paper). Their conservators evaluated the conservation status of the choirbooks, which helped in choosing the book to digitize in this pilot project, and provided conservation treatment to that book prior to digitization. And to the __Fundación Rozas-Botrán__, a foundation that manages social development projects in health and culture in Central America and Panama and of which CREA is a part.
-	- __Lucy González Muñoz__, CREA's lead conservator who enthusiastically took on the project, and the two Gabys, who worked on the conservation treatment of the book prior to digitization.
-	- __Thelma Castillo__, Art and Culture consultant at the Rozas-Botrán foundation, who put me in contact with CREA's lead conservator.
+I am very thankful to the many Guatemalan conservators, archivists, musicologists, photographers, and conservation and archival institutions that supported this project, especially during the digitization stage. I would not have been able to complete this initial phase of the project without the valuable support of:
+- The __Centro de Rescate, Estudios y Análisis Científico del Arte__ (__CREA__), a non-profit institution dedicated to the conservation and restoration of historical and cultural movable heritage (i.e., sculptures, paintings, and paper). Its conservators evaluated the conservation condition of the choirbooks, which helped determine the book selectedf for this project, and provided conservation treatment prior to digitization. I also thank the __Fundación Rozas-Botrán__, which manages social development projects in health and culture in Central America and Panama and of which CREA is a part.
+	- __Lucy González Muñoz__, CREA's lead conservator, who enthusiastically took on the project, and the two Gabys, who carried out the conservation treatment of the book prior to digitization.
+	- __Thelma Castillo__, Art and Culture consultant at the Rozas-Botrán Foundation, who put me in contact with CREA.
 
-- The __Archivo Histórico Arquidiocesano de Guatemala__ (__AHAG__), the archive holding these Cathedral choirbooks and that allowed me to conduct this pilot project.
-	- __Father Eddy René Calvillo__, chancellor of the Ecclesiastical Curia of Santiago de Guatemala and director of the AHAG, for his approval of the project.
-	- __Alejandro Conde__, archivist, for his advice and support during the process.
+- The __Archivo Histórico Arquidiocesano de Guatemala__ (__AHAG__), the archive holding these Cathedral choirbooks and which allowed me to conduct this pilot project.
+	- __Father Eddy René Calvillo__, Chancellor of the Ecclesiastical Curia of Santiago de Guatemala and Director of the AHAG, for approving the project.
+	- __Alejandro Conde__, archivist, for his advice and support throughout the process.
 
-- The _Centro de Investigaciones Regionales de Mesoamérica_ (_CIRMA_). This institution holds the microfilms of many of the music assets of the AHAG. Special thanks to:
-	- __Guisela Asensio Lueg__, CIRMA’s general director. She provided me with the contact of the photographer who was hired for the project.
- 	- __Thelma Porres Morfín__, director of CIRMA’s historical archive. She showed me the microfilms that contain part of the music collection of the AHAG and provided me with background information about their history.
-  	- __María de los Ángeles Ávila de León__, photo library assistant. She kindly offered to help me for free during the digitization process. Due to scheduling conflicts, she was not the photographer involved in the project, but offered assistance and advice. 
+- The _Centro de Investigaciones Regionales de Mesoamérica_ (_CIRMA_), which holds microfilms of many of the AHAG's music holdings. Special thanks to:
+	- __Guisela Asensio Lueg__, CIRMA’s General Director, who provided me with the contact of the photographer who was hired for the project.
+ 	- __Thelma Porres Morfín__, Director of CIRMA’s Historical Archive, who showed me the microfilms and provided valuable background information.
+  	- __María de los Ángeles Ávila de León__, Photo Library Assistant, who generously offered her help during the digitization process.
 
-- __Omar Morales Abril__, musicologist, for his advice during the whole project. In addition to being a great supporter of this work and providing great advice, he provided the metadata (especially that of composer attribution) for the selected choirbook.
-- __Daniel Hernández-Salazar__, the professional photographer hired. Hernández Salazar is an artistic photographer. He helped set up the camera parameters and equipment in the first session and provided me with useful advice and guidance (e.g., the inclusion of the verso number in the photograph itself by printing the number on small pieces of paper placed at one side of the color patch). Given that there was no digitization technician with expertise in handling special collections (this is not a common profession in the country), the handling of the manuscript and digitization process was conducted by me under the advice of several institutions included below.
-- __José German Thomae Villela__ (father), for the design and construction of the book cradle for the digitization of the books according to the list of requirements I provided him.
+- __Omar Morales Abril__, musicologist, for his advice throughout the project and for providing the metadata (especially composer attributions) for the selected choirbook.
+- __Daniel Hernández-Salazar__ (artistic photographer), the professional photographer hired for this project. He assisted in setting up the camera and equipment during the first session and provided valuable guidance (e.g., including the verso number directly in the photograph using printed labels placed beside the color patch). As there was no digitization technician specialized in handling special collections, the manuscript handling and digitization were carried out by me under the guidance of several institutions listed below.
+- __José German Thomae Villela__ (father), for designing and constructing the book cradle according to requirements provided.
 
 ## Digitization Part (External Institutions)
 I also want to thank all the experts who provided advice prior to or during the digitization process. I had the support of experts from three institutions involved in digitization projects of special collections, cultural heritage material, and music manuscripts:
