@@ -310,11 +310,11 @@ I also thank the experts who provided advice before and during the digitization 
 - I also acknowledge the developers of _mei-friend_, _Verovio_, and the _MEI Community_, as without whom this work would not have been possible. Special thanks to Werner Goebl for resolving an issue with the facsimile view of mensural voices accross page openings and to Anna Plaksin for her work on editorial markup display.
 
 ## Editorial Correction and Final Corpus
-- **Geneviève Gates-Panneton**, who experimented with the use of the dissonant filter in the MP Editor to evaluate whether it resulted in faster detection and correction of scribal errors.
-- **Ellis Reyes**, who proofread the transcription of the full corpus, made corrections when needed, and made the decisions regarding ficta for this corpus.
-- **Peter Schubert** and **Julie E. Cumming** for their advice on problematic passages in the correction of certain pieces.
+- **Geneviève Gates-Panneton**, for experimenting with the dissonant filter in the MP Editor
+- **Ellis Reyes**, for proofreading the transcription of the entire corpus and making decisions regarding ficta.
+- **Peter Schubert** and **Julie E. Cumming**, for their advice on problematic passages
 	
 ## Supporters
-Supervisors **Julie E. Cumming** and **Ichiro Fujinaga**, whose guidance was invaluable in the execution of this work, and the **Fonds de recherche du Québec – Société et culture (FRQSC), Bourse au doctorat en recherche (2019-B2Z-261749)** grant for funding this project.
+Supervisors **Julie E. Cumming** and **Ichiro Fujinaga**, for their invaluable guidance, and the **Fonds de recherche du Québec – Société et culture (FRQSC), doctoral gdrant (2019-B2Z-261749)** for funding this project.
 
-I also want to acknowledge the seemingly little but extremely valuable contributions of: _Virginia Golcher_, _Ana Miriam López_, _Karla Lou_, _Anneliese Thomae_, _Emilio Rós Fábregas_, _Andrés Lou_, _Juan Pablo Pira Martínez_, _Ana Patricia Elías López de Thomae_, who supported me in various aspects ranging from providing me information about conservation and restoration work in Guatemala and informing me about historical musicological work in the country to helping me with filming the videos of the digitization process.
+I also acknowledge the valuable contributions of: _Virginia Golcher_, _Ana Miriam López_, _Karla Lou_, _Anneliese Thomae_, _Emilio Rós Fábregas_, _Andrés Lou_, _Juan Pablo Pira Martínez_, _Ana Patricia Elías López de Thomae_, who supported me in various ways, ranging from sharing knowledge on conservation and musicological research in Guatemala to assisting with filming the digitization process.
