@@ -319,7 +319,7 @@ I also acknowledge the developers of _mei-friend_ (David Weigl and Werner Goebl)
 
 - - - - - 
 
-## Editorial Correction and Final Corpus
+## ✍️ Editorial Correction and Final Corpus
 - **Geneviève Gates-Panneton**, for experimenting with the dissonant filter in the MP Editor
 - **Ellis Reyes**, for proofreading the transcriptions of the entire corpus and making editorial decisions regarding ficta.
 - **Peter Schubert** and **Julie E. Cumming**, for their advice on problematic passages
