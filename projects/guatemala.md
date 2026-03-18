@@ -269,7 +269,7 @@ I am so thankful to many of the Guatemalan conservators, archivists, musicologis
   	- __María de los Ángeles Ávila de León__, photo library assistant. She kindly offered to help me for free during the digitization process. Due to scheduling conflicts, she was not the photographer involved in the project, but offered assistance and advice. 
 
 - __Omar Morales Abril__, musicologist, for his advice during the whole project. In addition to being a great supporter of this work and providing great advice, he provided the metadata (especially that of composer attribution) for the selected choirbook.
-- __Daniel Hernández-Salazar__, professional photographer hired. Hernández Salazar is an artistic photographer. He helped set up the camera parameters and equipment in the first session and provided me with useful advice and guidance (e.g., the inclusion of the verso number in the photograph itself by printing the number on small pieces of paper placed at one side of the color patch). Given that there was no digitization technician with expertise in handling special collections (this is not a common profession in the country), the handling of the manuscript and digitization process was conducted by me under the advice of several institutions included below.
+- __Daniel Hernández-Salazar__, the professional photographer hired. Hernández Salazar is an artistic photographer. He helped set up the camera parameters and equipment in the first session and provided me with useful advice and guidance (e.g., the inclusion of the verso number in the photograph itself by printing the number on small pieces of paper placed at one side of the color patch). Given that there was no digitization technician with expertise in handling special collections (this is not a common profession in the country), the handling of the manuscript and digitization process was conducted by me under the advice of several institutions included below.
 - __José German Thomae Villela__ (father), for the design and construction of the book cradle for the digitization of the books according to the list of requirements I provided him.
 
 ## Digitization Part (External Institutions)
@@ -304,9 +304,9 @@ I also want to thank all the experts who provided advice prior to or during the 
 	- **Karen Desmond**, principal investigator of the _Measuring Polyphony Project_ and the reason why the MP Editor exists, for her enthusiastic approval of the decision to make the two tools (_MuRET_ and _MP Editor_) interoperable.
  	- **Juliette Regimbal**, lead developer of the MP Editor, for helping me in this interoperability work for the MP Editor to receive input from MuRET and from humlib dissonant filter.
   	- **Craig Sapp**, for helping me to allow humlib's dissonant filter to work with the MP Editor.
-  	- **Alex Morgan**, developer of humlib's dissonat filter.
+  	- **Alex Morgan**, developer of humlib's dissonant filter.
  
-- The developers of _mei-friend_ (Werner Goebl and David Weigl), _Verovio_ (Laurent Pugin), and the _MEI Community_, as this work would not be possible without them. Special thanks to Werner Goebl, who solved an issue related to facsimiles in mensural notation not showing properly due to how voices are distributed in the book opening (i.e., across two pages). Also, thanks to Anna Plaksin for her work on the display of editorial markup in the transcription panel of _mei-fiend_.
+- The developers of _mei-friend_ (Werner Goebl and David Weigl), _Verovio_ (Laurent Pugin), and the _MEI Community_, as this work would not be possible without them. Special thanks to Werner Goebl, who solved an issue related to facsimiles in mensural notation not showing properly due to how voices are distributed in the book opening (i.e., across two pages). Also, thanks to Anna Plaksin for her work on the display of editorial markup in the transcription panel of _mei-friend_.
 
 ## Editorial Correction and Final Corpus
 - **Geneviève Gates-Panneton**, who experimented with the use of the dissonant filter in the MP Editor to evaluate whether it resulted in faster detection and correction of scribal errors.
@@ -314,6 +314,6 @@ I also want to thank all the experts who provided advice prior to or during the 
 - **Peter Schubert** and **Julie E. Cumming** for their advice on problematic passages in the correction of certain pieces.
 	
 ## Supporters
-Supervisors **Julie E. Cumming** and **Ichiro Fujinaga**, whose guidance was invaluable in the execution of this work, and the **Fonds de recherche du Québec – Société et culture (FRQSC), Bourse au doctorat en recherche (2019-B2Z- 261749)** grant for funding this project.
+Supervisors **Julie E. Cumming** and **Ichiro Fujinaga**, whose guidance was invaluable in the execution of this work, and the **Fonds de recherche du Québec – Société et culture (FRQSC), Bourse au doctorat en recherche (2019-B2Z-261749)** grant for funding this project.
 
-I also want to acknowledge the seemingly little but extremely valuable contributions of: _Virginia Golcher_, _Ana Miriam López_, _Karla Lou_, _Anneliese Thomae_,_ Emilio Rós Fábregas_, _Andrés Lou_, _Juan Pablo Pira Martínez_, _Ana Patricia Elías López de Thomae_, who supported me in various aspects from providing me information about conservation and restoration work in Guatemala and informing me about historical musicological work in the country to helping me with filming the videos of the digitization process.
+I also want to acknowledge the seemingly little but extremely valuable contributions of: _Virginia Golcher_, _Ana Miriam López_, _Karla Lou_, _Anneliese Thomae_, _Emilio Rós Fábregas_, _Andrés Lou_, _Juan Pablo Pira Martínez_, _Ana Patricia Elías López de Thomae_, who supported me in various aspects ranging from providing me information about conservation and restoration work in Guatemala and informing me about historical musicological work in the country to helping me with filming the videos of the digitization process.
