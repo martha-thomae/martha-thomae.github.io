@@ -71,42 +71,36 @@ In the next section, you will find the [inventory list](./guatemala.md#inventory
 Here is the **list inventoring** the contents of the GCA-Gaha 1 (the composer attribution was provided by Guatemalan Musicologist Omar Morales Abril). Click on the links to open the pieces in _mei-friend_, where you will have access to a kind of **"virtual exhibition"** showing the transcriptions, with editorial corrections in green; the original images; the link between the transcription, images, and encoding; and playback, just as explained in the previous paragraph. **Click on the links! Have a look!**
 
 ### 1. Asperges me - [Pedro Bermúdez?]
-
 Added in the 18th century.
 - [Asperges](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/01_Anonymous-OR-Bermudez_Asperges-me/Piece1_Asperges-me_Section1_f1v-2r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 - [Miserere](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/01_Anonymous-OR-Bermudez_Asperges-me/Piece1_Asperges-me_Section2_f2v-3r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 - [Gloria](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/01_Anonymous-OR-Bermudez_Asperges-me/Piece1_Asperges-me_Section3_f3v-4r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 
 ### 2. Asperges me - Anonymous
-
 Added in the 18th century.
 - [Asperges](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/02_Anonymous_Asperges-me/Piece2_Asperges-me_Section1_f4v-6r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54) 
 - [Miserere](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/02_Anonymous_Asperges-me/Piece2_Asperges-me_Section2_f5v-6r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 - [Gloria](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/02_Anonymous_Asperges-me/Piece2_Asperges-me_Section3_f6v-7r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 
 ### 3. Vidi aquam - Pedro Bermúdez
-
 Added in the 18th century.
 - [Vidi aquam](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/03_Pedro-Bermudez_Vidi-aquam/Piece3_Vidi-aquam_Section1_f7v-9r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 - [Confitemini](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/03_Pedro-Bermudez_Vidi-aquam/Piece3_Vidi-aquam_Section2_f9v-10r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 - [Gloria](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/03_Pedro-Bermudez_Vidi-aquam/Piece3_Vidi-aquam_Section3_f10v-11r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 
 ### 4. Vidi aquam - [Hernando Franco]
-
 Added in the 18th century.
 - [Vidi aquam](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/04_Franco_Vidi-aquam/Piece4_Vidi-aquam_Section1_f11v-13r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 - [Confitemini](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/04_Franco_Vidi-aquam/Piece4_Vidi-aquam_Section2_f12v-13r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 - [Gloria](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/04_Franco_Vidi-aquam/Piece4_Vidi-aquam_Section3_f13v-14r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 
 ### 5. Asperges me - [Alonso Trujillo]
-
 Added in the 18th century.
 - [Asperges](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/05_Trujillo_Asperges-me/Piece5_Vidi-aquam_Section1_f14v-15r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 - [Miserere](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/05_Trujillo_Asperges-me/Piece5_Vidi-aquam_Section2_f15v-16r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 - [Gloria](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/05_Trujillo_Asperges-me/Piece5_Vidi-aquam_Section3_f16v-17r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 
 ### 6. Missa sobre las voces - Cristóbal de Morales
-
 From the 1602 Libro de Kyries, copied by Gaspar Fernández. This is Morales's hexachord mass, which, according to Robert Snow (1996, p. 19), is preserved in only three other sources: a manuscript at the Capilla Real in Granada, the manuscript formerly known as _Medinaceli 607_ and now owned by Bartolomé March Servera, and _Tarazona 5_.
 - [Kyrie](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/06_Cristobal-de-Morales_Mass/Missa6.1_Kyrie_FullMovement_f17v-19r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 - [Gloria](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/06_Cristobal-de-Morales_Mass/Missa6.2_Gloria_FullMovement_f19v-22r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A95dbe38a-2001-4f53-b5f1-b46666d034f0&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
@@ -115,7 +109,6 @@ From the 1602 Libro de Kyries, copied by Gaspar Fernández. This is Morales's he
 - [Agnus](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/06_Cristobal-de-Morales_Mass/Missa6.5_Agnus_FullMovement_f30v-31r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PARTfec4a0f0-f272-45e4-b85f-9ac2b52291cb_A92e169f8-5eac-4c36-8d7a-ab6feb4bb118&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 
 ### 7. Missa sine nomine - Giovanni Pierluigi da Palestrina
-
 From the 1602 Libro de Kyries, copied by Gaspar Fernández. This is the _Missa sine nomine_ first published in the compsoer's _Missarum liber secundus_ in 1567 (RIMS P 660), see Snow (1996, p.19).
 - [Kyrie](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/07_Giovanni-Pierluigi-da-Palestrina_Mass/Missa7.1_Kyrie_FullMovement_f31v-33r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 - [Gloria](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/07_Giovanni-Pierluigi-da-Palestrina_Mass/Missa7.2_Gloria_FullMovement_f33v-35r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
@@ -125,7 +118,6 @@ From the 1602 Libro de Kyries, copied by Gaspar Fernández. This is the _Missa s
 - [Agnus II](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/07_Giovanni-Pierluigi-da-Palestrina_Mass/Missa7.6_AgnusII_FullMovement_f42v-43r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 
 ### 8. Missa Pere de nous - Pierre Colin
-
 From the 1602 Libro de Kyries, copied by Gaspar Fernández. This is Colin's _Missa Pere de nous_, published at Lyon in 1546 by Jacques Moderne in his _Liturgicon musicarum duodecim missarum_ (RISM C 3310), see Snow (1996, p.19).
 - [Kyrie](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/08_Pierre-Colin_Mass/Missa8.1_Kyrie_FullMovement_f43v-44r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 - [Gloria](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/08_Pierre-Colin_Mass/Missa8.2_Gloria_FullMovement_f44v-47r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
@@ -134,7 +126,6 @@ From the 1602 Libro de Kyries, copied by Gaspar Fernández. This is Colin's _Mis
 - [Agnus](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/08_Pierre-Colin_Mass/Missa8.5_Agnus_FullMovement_f53v-54r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 
 ### 9. Missa de 3er tono - Rodrigo de Ceballos
-
 From the 1602 Libro de Kyries, copied by Gaspar Fernández. This is Ceballos's popular _Missa tertii toni_, preserved in at least ten other sources (Snow 1996, p.19).
 - [Kyrie](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/09_Rodrigo-de-Ceballos_Mass/Missa9.1_Kyrie_FullMovement_f54v-56r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 - [Gloria](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/09_Rodrigo-de-Ceballos_Mass/Missa9.2_Gloria_FullMovement_f56v-60r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
@@ -144,7 +135,6 @@ From the 1602 Libro de Kyries, copied by Gaspar Fernández. This is Ceballos's p
 - [Agnus II](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/09_Rodrigo-de-Ceballos_Mass/Missa9.6_AgnusII_FullMovement_f70v-71r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 
 ### 10. Missa sine nomine - José de Torres y Martínez Bravo
-
 Added in the 18th century.
 - [Kyrie](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/10_Jose-de-Torres-y-Martinez-Bravo_Mass/Missa10.1_Kyrie_FullMovement_f71v-73r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 - [Gloria](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/10_Jose-de-Torres-y-Martinez-Bravo_Mass/Missa10.2_Gloria_FullMovement_f73v-76r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
@@ -154,7 +144,6 @@ Added in the 18th century.
 - [Agnus II](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/10_Jose-de-Torres-y-Martinez-Bravo_Mass/Missa10.6_AgnusII_FullMovement_f84v-85r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 
 ### 11. Missa O quam gloriosum - Tomás Luis de Victoria
-
 Added in the 18th century. Many concordant European sources.
 - [Kyrie](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/11_Tomas-Luis-de-Victoria_Mass/Missa11.1_Kyrie_FullMovement_f85v-87r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 - [Gloria](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/11_Tomas-Luis-de-Victoria_Mass/Missa11.2_Gloria_FullMovement_f87v-89r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
@@ -163,7 +152,6 @@ Added in the 18th century. Many concordant European sources.
 - [Agnus](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/11_Tomas-Luis-de-Victoria_Mass/Missa11.5_Agnus_FullMovement_f94v-95r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 
 ### 12. Missa Ave maris stella - Tomás Luis de Victoria
-
 Added in the 18th century. Many concordant European sources.
 - [Kyrie](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/12_Tomas-Luis-de-Victoria_Mass/Missa12.1_Kyrie_FullMovement_f95v-97r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 - [Gloria](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/12_Tomas-Luis-de-Victoria_Mass/Missa12.2_Gloria_FullMovement_f97v-100r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
@@ -172,7 +160,6 @@ Added in the 18th century. Many concordant European sources.
 - [Agnus](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/12_Tomas-Luis-de-Victoria_Mass/Missa12.5_Agnus_FullMovement_f108v-109r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 
 ### 13. Missa de 5to tono - Luis Serra
-
 Added in the 18th century.
 - [Kyrie](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/13_Serra_Mass/Missa13.1_Kyrie_FullMovement_f109v-111r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 - [Gloria](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/13_Serra_Mass/Missa13.2_Gloria_FullMovement_f111v-113r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
@@ -181,7 +168,6 @@ Added in the 18th century.
 - [Agnus](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/13_Serra_Mass/Missa13.5_Agnus_FullMovement_f118v-119r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 
 ### 14. Missa de 4to tono - Alegre
-
 Added in the 18th century.
 - [Kyrie](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/14_Alegre_Mass/Missa14.1_Kyrie_FullMovement_f119v-121r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 - [Gloria](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/14_Alegre_Mass/Missa14.2_Gloria_FullMovement_f121v-124r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
@@ -191,7 +177,6 @@ Added in the 18th century.
 - [Agnus II](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/14_Alegre_Mass/Missa14.6_AgnusII_FullMovement_f132v-133r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 
 ### 15. Missa de 8to tono - Rodrigo de Ceballos
-
 From the 1602 Libro de Kyries, copied by Gaspar Fernández. This is Ceballos's _Missa Simile est regnum caelorum_, a parody mass based on a motet by Morales (Snow 1996, p.19).
 - [Kyrie](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/15_Rodrigo-de-Ceballos_Mass/Missa15.1_Kyrie_FullMovement_f133v-135r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 - [Gloria](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/15_Rodrigo-de-Ceballos_Mass/Missa15.2_Gloria_FullMovement_f135v-139r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
@@ -201,7 +186,6 @@ From the 1602 Libro de Kyries, copied by Gaspar Fernández. This is Ceballos's _
 - [Agnus II](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/15_Rodrigo-de-Ceballos_Mass/Missa15.6_AgnusII_FullMovement_f150v-152r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 
 ### 16. Missa de Bomba - Pedro Bermúdez
-
 From the 1602 Libro de Kyries, copied by Gaspar Fernández. Parody mass based on Mateo Felcha's (el Viejo) ensalada _la Bomba_.
 - [Kyrie](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/16_Pedro-Bermudez_Mass/Missa16.1_Kyrie_FullMovement_f152v-154r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 - [Gloria](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/16_Pedro-Bermudez_Mass/Missa16.2_Gloria_FullMovement_f154v-158r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
@@ -210,7 +194,6 @@ From the 1602 Libro de Kyries, copied by Gaspar Fernández. Parody mass based on
 - [Agnus](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/16_Pedro-Bermudez_Mass/Missa16.5_Agnus_FullMovement_f168v-169r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 
 ### 17. Missa sine nomine - Juan Matías de Rivera
-
 Added in the 18th century.
 - [Kyrie](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/17_Juan-Matias-de-Rivera_Mass/Missa17.1_Kyrie_FullMovement_f169v-171r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 - [Gloria](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/17_Juan-Matias-de-Rivera_Mass/Missa17.2_Gloria_FullMovement_f171v-173r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
@@ -219,53 +202,43 @@ Added in the 18th century.
 - [Agnus](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/17_Juan-Matias-de-Rivera_Mass/Missa17.5_Agnus_FullMovement_f179v-180r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 
 ### 18. Christus natus est - Pedro Bermúdez
-
 Added in the 18th century.
 - [Full Piece](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/18_Pedro-Bermudez_Christus-natus-est/Piece18_Christus-natus-est_FullPiece_f180v-181r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 
 ### 19. Christus natus est - Pedro Bermúdez
-
 Added in the 18th century.
 - [Full Piece](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/19_Pedro-Bermudez_Christus-natus-est/Piece19_Christus-natus-est_FullPiece_f181v-183r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 
 ### 20. Christus natus est - Anonymous
-
 Added in the 18th century.
 - [Full Piece](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/20_Anonymous_Christus-natus-est/Piece20_Christus-natus-est_FullPiece_f183v-184r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 
 ### 21. Surrexit Dominus vere - Anonymous
-
 Added in the 18th century.
 - [Full Piece](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/21_Anonymous_Surrexit-Dominus-vere/Piece21_Surrexit-Dominus-vere_FullPiece_f184v-186r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 
 ### 22. Lumen ad revelationem - Hernando Franco
-
 Added in the 18th century.
 - [Full Piece](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/22_Hernando-Franco_Lumen-ad-revelationem/Piece22_Lumen-ad-revelationem_FullPiece_f186v-187r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 
 ### 23. Lumen ad revelationem - Pedro Bermúdez
-
 Added in the 18th century.
 - [Full piece](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/23_Pedro-Bermudez_Lumen-ad-revelationem/Piece23_Lumen-ad-revelationem_FullPiece_f187v-188r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 
 ### 24. Lumen ad revelationem - Pedro Bermúdez
-
 Added in the 18th century.
 - [Full Piece](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/24_Pedro-Bermudez_Lumen-ad-revelationem/Piece24_Lumen-ad-revelationem_FullPiece_f188v-189r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 
 ### 25. Surrexit Dominus vere - Anonymous
-
 Added in the 18th century.
 - [Full Piece](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/25_Anonymous_Surrexit-Dominus-vere/Piece25_Surrexit-Dominus-vere_FullPiece_f189v-190r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 
 ### 26. Victimae paschali laudes - Francisco Guerrero
-
 Added in the 18th century.
 - [Pars 1a, a 4](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/26_Francisco-Guerrero_Victimae-paschali-laudes/Piece26_Victimae-paschali-laudes_1aPars-a4_f190v-191r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 - [Pars 2a, a 5](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/26_Francisco-Guerrero_Victimae-paschali-laudes/Piece26_Victimae-paschali-laudes_2aPars-a5_f191v-192r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 
 ### 27. Tantum ergo - [Pedro Bermúdez]
-
 Added in the 18th century.
 - [Full Piece](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/27_Bermudez_Tantum-ergo/Piece27_Tantum-ergo_FullPiece_f192v-193r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54)
 
@@ -280,18 +253,21 @@ _(There is also a secondary branch to visualize all the intermediate files obtai
 
 # Acknowlegements
 
-## Guatemala
+## Guatemalan Institutions and Colleagues
 I am so thankful to many the Guatemalan conservators, archivists, musicologist, photographers, and conservation and archival institutions that helped me, especially during the digitization part of the project. I would not have been able to complete this initial state of the project without the valuable suppor of:
 - The __Centro de Rescate, Estudios y Análisis Científico del Arte__ (__CREA__), a non-profit institution dedicated to the conservation and restoration of historical and cultural movable heritage (i.e., sculptures, paintings, and paper). Their convervators evaluated the conservation status of the choirbooks, which helped in choosing the book to digitize in this pilot project, and provided conservation treatment to that book prior to digitization. And to the __Fundación Rozas-Botrán__, a foundation manages social development projects in health and culture in Central America and Panama and from which CREA is a part.
 	- __Lucy González Muñoz__, CREA's lead conservator who enthusiastically took on the project, and the two Gabys, who worked on the conservation treatment of the book prior to digitization.
 	- __Thelma Castillo__, Art and Culture consultant at the Rozas-Botrán foundation, who put me in contact with CREA's lead conservator.
+
 - The __Archivo Histórico Arquidiocesano de Guatemala__ (__AHAG__), the archive holding these Cathedral choirbooks and that allow me to conduct this pilot project.
 	- __Father Eddy René Calvillo__, chancellor of the Ecclesiastical Curia of Santiago de Guatemala and director of the AHAG, for his approval of the project.
 	- __Alejandro Conde__, archivist, for his advice and support during the process.
+
 - The _Centro de Investigaciones Regionales de Mesoamérica_ (_CIRMA_). This institution holds the microfilms of many of the music assets of the AHAG. Special thanks to:
 	- __Guisela Asensio Lueg__, CIRMA’s general director. She provided me with the contact of the photographer that was hired for the project.
  	- __Thelma Porres Morfin__, director of CIRMA’s historical archive. She showed me the microfilms that contain part of the music collection of the AHAG and provided me with background information about their history.
   	- __María de los Ángeles Ávila de León__, photo library assistant. She kindly offered to help me for free during the digitization process. Due to scheduling conflicts, she was not the photographer involved in the project, but offered assistance and advice. 
+
 - __Omar Morales Abril__, musicologist, for his advice during the whole project. In addition to being a great supporter of this project and to his great advice, he provided the metadata (specially that of composer attribution) for the selected choirbook.
 - __Daniel Hernández-Salazar__, professional photographer hired. Hernández Salazar is an artistic photographer. He helped setting up the camera parameters and equipment the first session and provided me with useful advice and guidance (e.g., the inclusion of the verso number in the photraph itself by printing the number of small pieces of paper placed at one side of the color patch was his suggestion). Given that there was no digitization technician with expertise on handling special collections (this is not a common profession in the country), the handling of the manuscript and digitization process was conducted by me under advice of several institutions included below.
 - __José German Thomae Villela__ (father), for the design and construction of the book craddle for the digitization of the books according to the list of requirements I provided him.
@@ -300,7 +276,6 @@ I am so thankful to many the Guatemalan conservators, archivists, musicologist, 
 I also want to thank all the experts that provided advice prior to or during the digitization process. I had the support of experts from three institutions involved in digitization projects of special collections, cultural heritage material, and music manuscripts:
 - The **McGill Library’s Digital Initiatives**
 	- **Gregory Houston**, McGill’s New Media & Digitization Administrator of the Digital Initiatives Department, for his suggestion regarding websites where I could obtain archival supplies (e.g., snake weights) and suggestions about how to improve the book scanner in the future.
-
 - The **Bibliothèque et Archives nationales du Québec** (**BAnQ**). With special thanks to three BAnQ experts who receive dme on multiple occassions at teh BAnQ for consulting on conservation- and digitization-related questions.
 	- **Jessica Régimbald**, conservator at the direction du dépôt légal et de la conservation des collections patrimoniales. She advised me on how to handle the manuscript during digitization to avoid any damage, gave me a list of common conservation treatments prior to digitization, and provided me with information about platens for me to make an informed decision on whether to use them.
 	- **Marie-Chantal Anctil**, coordinator of the section de la reproduction et des ateliers audiovisuels and direction de la numérisation. She adviced me about the most important things to consider when building a do-it-yourself (DIY) book scanner.
@@ -314,7 +289,7 @@ I also want to thank all the experts that provided advice prior to or during the
 
   For all the email exchanges during the project. Most of the things I did during digitization are based on their advice, including the use of a neutral background (the black felt sheet), the placement of the color patch in a stack of cardboard pieces (painted black to match the background) to keep it at the same level of the page, and the lack of a platen.
 
-  Finally, thanks to **Professor Eun Park** for her great _Preservation Management_ course at McGill, through which I learned a lot and I got in contact with the BAnQ and McGill Library personnel, and in which I met wonderful people that provided me with further advice and encouragement (thank you, colleagues).
+  Finally, thanks to **Professor Eun Park** and **colleagues from the _Preservation Management_ course** (McGill). Through this course, I learned so much and got in contact with the BAnQ and McGill Library personnel. I also met wonderful people, my classmates, who provided me with further advice and encouragement.
 
 ## MIR Part
 - I am thankful to everyone behind _MuRET's development_, the software used for the _optical music recognition (OMR) part_. Special thanks to:
@@ -322,6 +297,7 @@ I also want to thank all the experts that provided advice prior to or during the
  	- **Jorge Calvo-Zaragoza** and **Antonio Ríos-Vila** for the preparation of the symbol recognition models,
   	- **Francisco (Paco) Castellanos** for the preparation of the document analysis model,
   	- **José Manuel Iñesta** as the principal investigator of the HISPAMUS project.
+  
   I am also thankful to them for their collegial support and friendship.
 
 - Regarding the _scoring up part_ conducted in the _Measuring Polyphony (MP) Editor_, I want to extend my thanks to:
@@ -332,7 +308,7 @@ I also want to thank all the experts that provided advice prior to or during the
  
 - The developers of _mei-friend_ (Werner Goebl and David Weigl), _Verovio_ (Laurent Pugin), and the _MEI Community_ as this work would not be possible without them. Special thanks to Werner Goebl, who solved an issue related to facsimiles in mensural notation not showing properly due how voices are distributed in the book opening (i.e., accross two pages). Also thanks to Anna Plaksin for her work on the display of editorial markup in the transcription panel of mei-fiend.
 
-## Editorial correction - Final corpus
+## Editorial Correction and Final Corpus
 - **Geneviève Gates-Panneton**, who experiment with the use of the dissonant filter in the MP Editor to evaluate whether it resulted in faster detection and correction of scribal errors.
 - **Ellis Reyes**, who proofread the transcription of the full corpus, made corrections when needed, and made the decisions regarding ficta for this corpus.
 - **Peter Schubert** and **Julie E. Cumming** for their advice in problematic passages in the correction of certain pieces.
@@ -340,4 +316,4 @@ I also want to thank all the experts that provided advice prior to or during the
 ## Supporters
 Supervisors **Julie E. Cumming** and **Ichiro Fujinaga**, whose guidance was invaluable in the execution of this work, and the **Fonds de recherche du Québec – Société et culture (FRQSC), Bourse au doctorat en recherche (2019-B2Z- 261749)** grant for funding this project.
 
-I also want to acknowledge the seemingly little but extremely valuable contributions of: Virginia Golcher, Ana Miriam López, Karla Lou, Anneliese Thomae, Emilio Rós Fábregas, Andrés Lou, Juan Pablo Pira Martínez, Ana Patricia Elías López de Thomae, who supported me in various aspects from providing me information about conservation and restoration work in Guatemala and inform me about historical musicological work in the country to helping me with filming the videos of the digitization process.
+I also want to acknowledge the seemingly little but extremely valuable contributions of: _Virginia Golcher_, _Ana Miriam López_, _Karla Lou_, _Anneliese Thomae_,_ Emilio Rós Fábregas_, _Andrés Lou_, _Juan Pablo Pira Martínez_, _Ana Patricia Elías López de Thomae_, who supported me in various aspects from providing me information about conservation and restoration work in Guatemala and inform me about historical musicological work in the country to helping me with filming the videos of the digitization process.
