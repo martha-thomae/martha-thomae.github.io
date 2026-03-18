@@ -298,20 +298,20 @@ I also thank the experts who provided advice before and during the digitization 
 
 ## MIR Part
 - I am thankful to everyone involved in the development of _MuRET_, the software used for the _optical music recognition (OMR)_ component. Special thanks to:
-	- **David Rizo**, lead developer of MuRET
- 	- **Jorge Calvo-Zaragoza** and **Antonio Ríos-Vila**, for the symbol recognition models
-  	- **Francisco (Paco) Castellanos**, for the document analysis model
-  	- **José Manuel Iñesta**, principal investigator of the HISPAMUS project
+  - **David Rizo**, lead developer of MuRET
+  - **Jorge Calvo-Zaragoza** and **Antonio Ríos-Vila**, for the symbol recognition models
+  - **Francisco (Paco) Castellanos**, for the document analysis model
+  - **José Manuel Iñesta**, principal investigator of the HISPAMUS project
   
   I also thank to them for their collegial support and collaboration.
 
 - Regarding the _scoring up_ stage carried out in the _Measuring Polyphony (MP) Editor_, I would like to thank:
-	- **Karen Desmond** (PI), for supporting the interoperability between MuRET and the MP Editor
- 	- **Juliette Regimbal** (lead developer), for her help in implementing this interoperability.
-  	- **Craig Sapp**, for enabling the integration of the humlib dissonant filter
-  	- **Alex Morgan**, developer of the humlib dissonant filter
+  - **Karen Desmond** (PI), for supporting the interoperability between MuRET and the MP Editor
+  - **Juliette Regimbal** (lead developer), for her help in implementing this interoperability.
+  - **Craig Sapp**, for enabling the integration of the humlib dissonant filter
+  - **Alex Morgan**, developer of the humlib dissonant filter
  
-- I also acknowledge the developers of _mei-friend_ (David Weigl and Werner Goebl), _Verovio_ (Laurent Pugin), and the _MEI Community_, without whom this work would not have been possible. Special thanks to Werner Goebl for resolving an issue with the facsimile view of mensural voices distributed across the book opening, and to Anna Plaksin for her work on editorial markup display.
+I also acknowledge the developers of _mei-friend_ (David Weigl and Werner Goebl), _Verovio_ (Laurent Pugin), and the _MEI Community_, without whom this work would not have been possible. Special thanks to Werner Goebl for resolving an issue with the facsimile view of mensural voices distributed across the book opening, and to Anna Plaksin for her work on editorial markup display.
 
 ## Editorial Correction and Final Corpus
 - **Geneviève Gates-Panneton**, for experimenting with the dissonant filter in the MP Editor
