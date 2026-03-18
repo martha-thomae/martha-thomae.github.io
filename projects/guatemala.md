@@ -273,40 +273,41 @@ I am very thankful to the many Guatemalan conservators, archivists, musicologist
 - __José German Thomae Villela__ (father), for designing and constructing the book cradle according to requirements provided.
 
 ## Digitization Part (External Institutions)
-I also want to thank all the experts who provided advice prior to or during the digitization process. I had the support of experts from three institutions involved in digitization projects of special collections, cultural heritage material, and music manuscripts:
+I also thank the experts who provided advice before and during the digitization process. I received support from specialists at three institutions working on digitization projects involving special collections, cultural heritage materials, and music manuscripts:
 - The **McGill Library’s Digital Initiatives**.
-	- **Gregory Houston**, McGill’s New Media & Digitization Administrator of the Digital Initiatives Department, for his suggestions regarding websites where I could obtain archival supplies (e.g., snake weights) and suggestions about how to improve the book scanner in the future.
-- The **Bibliothèque et Archives nationales du Québec** (**BAnQ**). With special thanks to three BAnQ experts who received me on multiple occasions at the BAnQ for consulting on conservation- and digitization-related questions.
-	- **Jessica Régimbald**, conservator at the _direction du dépôt légal et de la conservation des collections patrimoniales_. She advised me on how to handle the manuscript during digitization to avoid any damage, gave me a list of common conservation treatments prior to digitization, and provided me with information about platens for me to make an informed decision on whether to use them.
-	- **Marie-Chantal Anctil**, coordinator of the _section de la reproduction et des ateliers audiovisuels and direction de la numérisation_. She advised me about the most important things to consider when building a do-it-yourself (DIY) book scanner.
-   - **Michel Legendre**, photographer of the _direction de la numérisation and section de la reproduction_. He advised me about the light selection, approving the lighting equipment chosen.
+	- **Gregory Houston**, McGill’s New Media & Digitization Administrator, for his recommendations as to where to obtain archival supplies (e.g., snake weights) and suggestions for future improvements to the book scanner.
 
-	Legendre and Anctil were the ones who proposed the open-at-one-side cradle configuration for the book scanner to facilitate keeping the photographed page flat, which is the configuration that I ended up using.
+- The **Bibliothèque et Archives nationales du Québec** (**BAnQ**). Special thanks to three BAnQ experts who received me on multiple occasions for consultation on conservation and digitization matters:
+	- **Jessica Régimbald**, conservator at the _direction du dépôt légal et de la conservation des collections patrimoniales_, who advised me on safe manuscript handling, conservation treatments prior to digitization, and the use of platens.
+	- **Marie-Chantal Anctil**, coordinator of the _section de la reproduction et des ateliers audiovisuels and direction de la numérisation_, who advised me on key considerations for building a do-it-yourself (DIY) book scanner.
+   - **Michel Legendre**, photographer (_direction de la numérisation and section de la reproduction_), who advised me on lighting and approved the selected equipment.
+
+	Anctil and Legendre also proposed the open-at-one-side cradle configuration (to solve the issue of keeping the page flat without a platen), which I ultimately adopted.
 
 - The **Digital Image Archive of Medieval Music** (**DIAMM**). Special thanks to:
-  - **Julia Craig-McFeely**, project manager.
-  - **Lynda Sayce**, lead photographer.
+  - **Julia Craig-McFeely**, Project Manager.
+  - **Lynda Sayce**, Lead Photographer.
 
-  For all the email exchanges during the project. Most of the things I did during digitization are based on their advice, including the use of a neutral background (the black felt sheet), the placement of the color patch in a stack of cardboard pieces (painted black to match the background) to keep it at the same level as the page to be photographed, and the lack of a platen.
+  For their extensive email support thoughout the project. Most aspects of the digitization process were based on their advice, including the use of a neutral background, the positioning of the color patch, and the decision not to use a platen.
 
-  Finally, thanks to **Professor Eun Park** and **colleagues from the _Preservation Management_ course** (McGill). Through this course, I learned so much and got in contact with the BAnQ and McGill Library personnel. I also met wonderful people, my classmates, who provided me with further advice and encouragement.
+  Finally, thanks to **Professor Eun Park** and **colleagues from the _Preservation Management_ course** (McGill). Through this course, I gained valuable knowledge and connected with professionals at BAnQ and McGill Library. I am also grateful to my classmates, for their advice and encouragement.
 
 ## MIR Part
-- I am thankful to everyone behind _MuRET's development_, the software used for the _optical music recognition (OMR) part_. Special thanks to:
-	- **David Rizo**, lead developer of MuRET,
- 	- **Jorge Calvo-Zaragoza** and **Antonio Ríos-Vila** for the preparation of the symbol recognition models,
-  	- **Francisco (Paco) Castellanos** for the preparation of the document analysis model,
-  	- **José Manuel Iñesta** as the principal investigator of the HISPAMUS project.
+- I am thankful to everyone involved in the development of _MuRET_, the software used for the _optical music recognition (OMR)_ component. Special thanks to:
+	- **David Rizo**, lead developer of MuRET
+ 	- **Jorge Calvo-Zaragoza** and **Antonio Ríos-Vila**, for the symbol recognition models
+  	- **Francisco (Paco) Castellanos**, for the document analysis model
+  	- **José Manuel Iñesta**, principal investigator of the HISPAMUS project
   
-  I am also thankful to them for their collegial support and friendship.
+  I also thank to them for their collegial support and collaboration.
 
-- Regarding the _scoring up part_ conducted in the _Measuring Polyphony (MP) Editor_, I want to extend my thanks to:
-	- **Karen Desmond**, principal investigator of the _Measuring Polyphony Project_ and the reason why the MP Editor exists, for her enthusiastic approval of the decision to make the two tools (_MuRET_ and _MP Editor_) interoperable.
- 	- **Juliette Regimbal**, lead developer of the MP Editor, for helping me in this interoperability work for the MP Editor to receive input from MuRET and from humlib dissonant filter.
-  	- **Craig Sapp**, for helping me to allow humlib's dissonant filter to work with the MP Editor.
-  	- **Alex Morgan**, developer of humlib's dissonant filter.
+- Regarding the _scoring up_ stage carried out in the _Measuring Polyphony (MP) Editor_, I would like to thank:
+	- **Karen Desmond** (PI), for supporting the interoperability between MuRET and the MP Editor
+ 	- **Juliette Regimbal** (lead developer), for her help in implementing this interoperabiliy.
+  	- **Craig Sapp**, for enabling the integration of the humlib dissonant filter
+  	- **Alex Morgan**, developer of the humlib's dissonant filter
  
-- The developers of _mei-friend_ (Werner Goebl and David Weigl), _Verovio_ (Laurent Pugin), and the _MEI Community_, as this work would not be possible without them. Special thanks to Werner Goebl, who solved an issue related to facsimiles in mensural notation not showing properly due to how voices are distributed in the book opening (i.e., across two pages). Also, thanks to Anna Plaksin for her work on the display of editorial markup in the transcription panel of _mei-friend_.
+- I also acknowledge the developers of _mei-friend_, _Verovio_, and the _MEI Community_, as without whom this work would not have been possible. Special thanks to Werner Goebl for resolving an issue with the facsimile view of mensural voices accross page openings and to Anna Plaksin for her work on editorial markup display.
 
 ## Editorial Correction and Final Corpus
 - **Geneviève Gates-Panneton**, who experimented with the use of the dissonant filter in the MP Editor to evaluate whether it resulted in faster detection and correction of scribal errors.
