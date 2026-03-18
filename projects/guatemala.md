@@ -255,7 +255,7 @@ _(There is also a secondary branch to visualize all the intermediate files obtai
 
 ## Guatemalan Institutions and Colleagues
 I am so thankful to many of the Guatemalan conservators, archivists, musicologists, photographers, and conservation and archival institutions that helped me, especially during the digitization part of the project. I would not have been able to complete this initial state of the project without the valuable support of:
-- The __Centro de Rescate, Estudios y Análisis Científico del Arte__ (__CREA__), a non-profit institution dedicated to the conservation and restoration of historical and cultural movable heritage (i.e., sculptures, paintings, and paper). Their conservators evaluated the conservation status of the choirbooks, which helped in choosing the book to digitize in this pilot project, and provided conservation treatment to that book prior to digitization. And to the __Fundación Rozas-Botrán__, a foundation manages social development projects in health and culture in Central America and Panama and from which CREA is a part.
+- The __Centro de Rescate, Estudios y Análisis Científico del Arte__ (__CREA__), a non-profit institution dedicated to the conservation and restoration of historical and cultural movable heritage (i.e., sculptures, paintings, and paper). Their conservators evaluated the conservation status of the choirbooks, which helped in choosing the book to digitize in this pilot project, and provided conservation treatment to that book prior to digitization. And to the __Fundación Rozas-Botrán__, a foundation that manages social development projects in health and culture in Central America and Panama and of which CREA is a part.
 	- __Lucy González Muñoz__, CREA's lead conservator who enthusiastically took on the project, and the two Gabys, who worked on the conservation treatment of the book prior to digitization.
 	- __Thelma Castillo__, Art and Culture consultant at the Rozas-Botrán foundation, who put me in contact with CREA's lead conservator.
 
@@ -264,22 +264,22 @@ I am so thankful to many of the Guatemalan conservators, archivists, musicologis
 	- __Alejandro Conde__, archivist, for his advice and support during the process.
 
 - The _Centro de Investigaciones Regionales de Mesoamérica_ (_CIRMA_). This institution holds the microfilms of many of the music assets of the AHAG. Special thanks to:
-	- __Guisela Asensio Lueg__, CIRMA’s general director. She provided me with the contact of the photographer that was hired for the project.
- 	- __Thelma Porres Morfin__, director of CIRMA’s historical archive. She showed me the microfilms that contain part of the music collection of the AHAG and provided me with background information about their history.
+	- __Guisela Asensio Lueg__, CIRMA’s general director. She provided me with the contact of the photographer who was hired for the project.
+ 	- __Thelma Porres Morfín__, director of CIRMA’s historical archive. She showed me the microfilms that contain part of the music collection of the AHAG and provided me with background information about their history.
   	- __María de los Ángeles Ávila de León__, photo library assistant. She kindly offered to help me for free during the digitization process. Due to scheduling conflicts, she was not the photographer involved in the project, but offered assistance and advice. 
 
-- __Omar Morales Abril__, musicologist, for his advice during the whole project. In addition to being a great supporter of this project and to his great advice, he provided the metadata (specially that of composer attribution) for the selected choirbook.
-- __Daniel Hernández-Salazar__, professional photographer hired. Hernández Salazar is an artistic photographer. He helped setting up the camera parameters and equipment the first session and provided me with useful advice and guidance (e.g., the inclusion of the verso number in the photograph itself by printing the number of small pieces of paper placed at one side of the color patch was his suggestion). Given that there was no digitization technician with expertise on handling special collections (this is not a common profession in the country), the handling of the manuscript and digitization process was conducted by me under advice of several institutions included below.
+- __Omar Morales Abril__, musicologist, for his advice during the whole project. In addition to being a great supporter of this work and providing great advice, he provided the metadata (especially that of composer attribution) for the selected choirbook.
+- __Daniel Hernández-Salazar__, professional photographer hired. Hernández Salazar is an artistic photographer. He helped set up the camera parameters and equipment in the first session and provided me with useful advice and guidance (e.g., the inclusion of the verso number in the photograph itself by printing the number on small pieces of paper placed at one side of the color patch). Given that there was no digitization technician with expertise in handling special collections (this is not a common profession in the country), the handling of the manuscript and digitization process was conducted by me under the advice of several institutions included below.
 - __José German Thomae Villela__ (father), for the design and construction of the book cradle for the digitization of the books according to the list of requirements I provided him.
 
 ## Digitization Part (External Institutions)
-I also want to thank all the experts that provided advice prior to or during the digitization process. I had the support of experts from three institutions involved in digitization projects of special collections, cultural heritage material, and music manuscripts:
-- The **McGill Library’s Digital Initiatives**
-	- **Gregory Houston**, McGill’s New Media & Digitization Administrator of the Digital Initiatives Department, for his suggestion regarding websites where I could obtain archival supplies (e.g., snake weights) and suggestions about how to improve the book scanner in the future.
+I also want to thank all the experts who provided advice prior to or during the digitization process. I had the support of experts from three institutions involved in digitization projects of special collections, cultural heritage material, and music manuscripts:
+- The **McGill Library’s Digital Initiatives**.
+	- **Gregory Houston**, McGill’s New Media & Digitization Administrator of the Digital Initiatives Department, for his suggestions regarding websites where I could obtain archival supplies (e.g., snake weights) and suggestions about how to improve the book scanner in the future.
 - The **Bibliothèque et Archives nationales du Québec** (**BAnQ**). With special thanks to three BAnQ experts who received me on multiple occasions at the BAnQ for consulting on conservation- and digitization-related questions.
-	- **Jessica Régimbald**, conservator at the direction du dépôt légal et de la conservation des collections patrimoniales. She advised me on how to handle the manuscript during digitization to avoid any damage, gave me a list of common conservation treatments prior to digitization, and provided me with information about platens for me to make an informed decision on whether to use them.
-	- **Marie-Chantal Anctil**, coordinator of the section de la reproduction et des ateliers audiovisuels and direction de la numérisation. She adviced me about the most important things to consider when building a do-it-yourself (DIY) book scanner.
-   - **Michel Legendre**, photographer of the direction de la numérisation and section de la reproduction. He advised me about the light selection, approving the lighting equipment chosen.
+	- **Jessica Régimbald**, conservator at the _direction du dépôt légal et de la conservation des collections patrimoniales_. She advised me on how to handle the manuscript during digitization to avoid any damage, gave me a list of common conservation treatments prior to digitization, and provided me with information about platens for me to make an informed decision on whether to use them.
+	- **Marie-Chantal Anctil**, coordinator of the _section de la reproduction et des ateliers audiovisuels and direction de la numérisation_. She advised me about the most important things to consider when building a do-it-yourself (DIY) book scanner.
+   - **Michel Legendre**, photographer of the _direction de la numérisation and section de la reproduction_. He advised me about the light selection, approving the lighting equipment chosen.
 
 	Legendre and Anctil were the ones who proposed the open-at-one-side cradle configuration for the book scanner to facilitate keeping the photographed page flat, which is the configuration that I ended up using.
 
@@ -287,7 +287,7 @@ I also want to thank all the experts that provided advice prior to or during the
   - **Julia Craig-McFeely**, project manager.
   - **Lynda Sayce**, lead photographer.
 
-  For all the email exchanges during the project. Most of the things I did during digitization are based on their advice, including the use of a neutral background (the black felt sheet), the placement of the color patch in a stack of cardboard pieces (painted black to match the background) to keep it at the same level of the page, and the lack of a platen.
+  For all the email exchanges during the project. Most of the things I did during digitization are based on their advice, including the use of a neutral background (the black felt sheet), the placement of the color patch in a stack of cardboard pieces (painted black to match the background) to keep it at the same level as the page to be photographed, and the lack of a platen.
 
   Finally, thanks to **Professor Eun Park** and **colleagues from the _Preservation Management_ course** (McGill). Through this course, I learned so much and got in contact with the BAnQ and McGill Library personnel. I also met wonderful people, my classmates, who provided me with further advice and encouragement.
 
@@ -301,19 +301,19 @@ I also want to thank all the experts that provided advice prior to or during the
   I am also thankful to them for their collegial support and friendship.
 
 - Regarding the _scoring up part_ conducted in the _Measuring Polyphony (MP) Editor_, I want to extend my thanks to:
-	- **Karen Desmond**, principal investigator of the Measuring Polyphony Project and the reason why the MP Editor exists, for her enthusiastic approval on the decision of making the two tools (MuRET and MP Editor) interoperable.
+	- **Karen Desmond**, principal investigator of the _Measuring Polyphony Project_ and the reason why the MP Editor exists, for her enthusiastic approval of the decision to make the two tools (_MuRET_ and _MP Editor_) interoperable.
  	- **Juliette Regimbal**, lead developer of the MP Editor, for helping me in this interoperability work for the MP Editor to receive input from MuRET and from humlib dissonant filter.
   	- **Craig Sapp**, for helping me to allow humlib's dissonant filter to work with the MP Editor.
   	- **Alex Morgan**, developer of humlib's dissonat filter.
  
-- The developers of _mei-friend_ (Werner Goebl and David Weigl), _Verovio_ (Laurent Pugin), and the _MEI Community_ as this work would not be possible without them. Special thanks to Werner Goebl, who solved an issue related to facsimiles in mensural notation not showing properly due how voices are distributed in the book opening (i.e., across two pages). Also thanks to Anna Plaksin for her work on the display of editorial markup in the transcription panel of mei-fiend.
+- The developers of _mei-friend_ (Werner Goebl and David Weigl), _Verovio_ (Laurent Pugin), and the _MEI Community_, as this work would not be possible without them. Special thanks to Werner Goebl, who solved an issue related to facsimiles in mensural notation not showing properly due to how voices are distributed in the book opening (i.e., across two pages). Also, thanks to Anna Plaksin for her work on the display of editorial markup in the transcription panel of _mei-fiend_.
 
 ## Editorial Correction and Final Corpus
 - **Geneviève Gates-Panneton**, who experimented with the use of the dissonant filter in the MP Editor to evaluate whether it resulted in faster detection and correction of scribal errors.
 - **Ellis Reyes**, who proofread the transcription of the full corpus, made corrections when needed, and made the decisions regarding ficta for this corpus.
-- **Peter Schubert** and **Julie E. Cumming** for their advice in problematic passages in the correction of certain pieces.
+- **Peter Schubert** and **Julie E. Cumming** for their advice on problematic passages in the correction of certain pieces.
 	
 ## Supporters
 Supervisors **Julie E. Cumming** and **Ichiro Fujinaga**, whose guidance was invaluable in the execution of this work, and the **Fonds de recherche du Québec – Société et culture (FRQSC), Bourse au doctorat en recherche (2019-B2Z- 261749)** grant for funding this project.
 
-I also want to acknowledge the seemingly little but extremely valuable contributions of: _Virginia Golcher_, _Ana Miriam López_, _Karla Lou_, _Anneliese Thomae_,_ Emilio Rós Fábregas_, _Andrés Lou_, _Juan Pablo Pira Martínez_, _Ana Patricia Elías López de Thomae_, who supported me in various aspects from providing me information about conservation and restoration work in Guatemala and inform me about historical musicological work in the country to helping me with filming the videos of the digitization process.
+I also want to acknowledge the seemingly little but extremely valuable contributions of: _Virginia Golcher_, _Ana Miriam López_, _Karla Lou_, _Anneliese Thomae_,_ Emilio Rós Fábregas_, _Andrés Lou_, _Juan Pablo Pira Martínez_, _Ana Patricia Elías López de Thomae_, who supported me in various aspects from providing me information about conservation and restoration work in Guatemala and informing me about historical musicological work in the country to helping me with filming the videos of the digitization process.
