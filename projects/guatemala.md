@@ -278,38 +278,38 @@ I extend my gratitude towards:
 
 I also thank the experts who provided advice before and during the digitization process. I received support from specialists at three institutions working on digitization projects involving special collections, cultural heritage materials, and music manuscripts:
 
-- The **McGill Library’s Digital Initiatives**.
-  - **Gregory Houston**, McGill’s New Media & Digitization Administrator, for his recommendations as to where to obtain archival supplies (e.g., snake weights) and suggestions for future improvements to the book scanner.
+The **McGill Library’s Digital Initiatives**.
+- **Gregory Houston**, McGill’s New Media & Digitization Administrator, for his recommendations as to where to obtain archival supplies (e.g., snake weights) and suggestions for future improvements to the book scanner.
 
-- The **Bibliothèque et Archives nationales du Québec** (**BAnQ**). Special thanks to three BAnQ experts who received me on multiple occasions for consultation on conservation and digitization matters:
-  - **Jessica Régimbald**, conservator at the _direction du dépôt légal et de la conservation des collections patrimoniales_, who advised me on safe manuscript handling, conservation treatments prior to digitization, and the use of platens.
-  - **Marie-Chantal Anctil**, coordinator of the _section de la reproduction et des ateliers audiovisuels and direction de la numérisation_, who advised me on key considerations for building a do-it-yourself (DIY) book scanner.
-  - **Michel Legendre**, photographer (_direction de la numérisation and section de la reproduction_), who advised me on lighting and approved the selected equipment.
+The **Bibliothèque et Archives nationales du Québec** (**BAnQ**). Special thanks to three BAnQ experts who received me on multiple occasions for consultation on conservation and digitization matters:
+- **Jessica Régimbald**, conservator at the _direction du dépôt légal et de la conservation des collections patrimoniales_, who advised me on safe manuscript handling, conservation treatments prior to digitization, and the use of platens.
+- **Marie-Chantal Anctil**, coordinator of the _section de la reproduction et des ateliers audiovisuels and direction de la numérisation_, who advised me on key considerations for building a do-it-yourself (DIY) book scanner.
+- **Michel Legendre**, photographer (_direction de la numérisation and section de la reproduction_), who advised me on lighting and approved the selected equipment.
 
-  Anctil and Legendre also proposed the open-at-one-side cradle configuration (to solve the issue of keeping the page flat without a platen), which I ultimately adopted.
+Anctil and Legendre also proposed the open-at-one-side cradle configuration (to solve the issue of keeping the page flat without a platen), which I ultimately adopted.
 
-- The **Digital Image Archive of Medieval Music** (**DIAMM**). Special thanks to:
-  - **Julia Craig-McFeely**, Project Manager.
-  - **Lynda Sayce**, Lead Photographer.
+The **Digital Image Archive of Medieval Music** (**DIAMM**). Special thanks to:
+- **Julia Craig-McFeely**, Project Manager.
+- **Lynda Sayce**, Lead Photographer.
 
-  For their extensive email support throughout the project. Many aspects of the digitization process were based on their advice, including the use of a neutral background, the positioning of the color patch, and the decision not to use a platen.
+For their extensive email support throughout the project. Many aspects of the digitization process were based on their advice, including the use of a neutral background, the positioning of the color patch, and the decision not to use a platen.
 
-  Finally, thanks to **Professor Eun Park** and **colleagues from the _Preservation Management_ course** (McGill). Through this course, I gained valuable knowledge and connected with professionals at BAnQ and McGill Library. I am also grateful to my classmates, for their advice and encouragement.
+Finally, thanks to **Professor Eun Park** and **colleagues from the _Preservation Management_ course** (McGill). Through this course, I gained valuable knowledge and connected with professionals at BAnQ and McGill Library. I am also grateful to my classmates, for their advice and encouragement.
 
 ## MIR Part
-- I am thankful to everyone involved in the development of _MuRET_, the software used for the _optical music recognition (OMR)_ component. Special thanks to:
-  - **David Rizo**, lead developer of MuRET
-  - **Jorge Calvo-Zaragoza** and **Antonio Ríos-Vila**, for the symbol recognition models
-  - **Francisco (Paco) Castellanos**, for the document analysis model
-  - **José Manuel Iñesta**, principal investigator of the HISPAMUS project
+I am thankful to everyone involved in the development of _MuRET_, the software used for the _optical music recognition (OMR)_ component. Special thanks to:
+- **David Rizo**, lead developer of MuRET
+- **Jorge Calvo-Zaragoza** and **Antonio Ríos-Vila**, for the symbol recognition models
+- **Francisco (Paco) Castellanos**, for the document analysis model
+- **José Manuel Iñesta**, principal investigator of the HISPAMUS project
   
-  I also thank to them for their collegial support and collaboration.
+I also thank to them for their collegial support and collaboration.
 
-- Regarding the _scoring up_ stage carried out in the _Measuring Polyphony (MP) Editor_, I would like to thank:
-  - **Karen Desmond** (PI), for supporting the interoperability between MuRET and the MP Editor
-  - **Juliette Regimbal** (lead developer), for her help in implementing this interoperability.
-  - **Craig Sapp**, for enabling the integration of the humlib dissonant filter
-  - **Alex Morgan**, developer of the humlib dissonant filter
+Regarding the _scoring up_ stage carried out in the _Measuring Polyphony (MP) Editor_, I would like to thank:
+- **Karen Desmond** (PI), for supporting the interoperability between MuRET and the MP Editor
+- **Juliette Regimbal** (lead developer), for her help in implementing this interoperability.
+- **Craig Sapp**, for enabling the integration of the humlib dissonant filter
+- **Alex Morgan**, developer of the humlib dissonant filter
  
 I also acknowledge the developers of _mei-friend_ (David Weigl and Werner Goebl), _Verovio_ (Laurent Pugin), and the _MEI Community_, without whom this work would not have been possible. Special thanks to Werner Goebl for resolving an issue with the facsimile view of mensural voices distributed across the book opening, and to Anna Plaksin for her work on editorial markup display.
 
