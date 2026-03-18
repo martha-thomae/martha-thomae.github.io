@@ -255,7 +255,7 @@ _(There is also a secondary branch to visualize all the intermediate files obtai
 
 ## Guatemalan Institutions and Colleagues
 I am very thankful to the many Guatemalan conservators, archivists, musicologists, photographers, and conservation and archival institutions that supported this project, especially during the digitization stage. I would not have been able to complete this initial phase of the project without the valuable support of:
-- The __Centro de Rescate, Estudios y Análisis Científico del Arte__ (__CREA__), a non-profit institution dedicated to the conservation and restoration of historical and cultural movable heritage (i.e., sculptures, paintings, and paper). Its conservators evaluated the conservation condition of the choirbooks, which helped determine the book selectedf for this project, and provided conservation treatment prior to digitization. I also thank the __Fundación Rozas-Botrán__, which manages social development projects in health and culture in Central America and Panama and of which CREA is a part.
+- The __Centro de Rescate, Estudios y Análisis Científico del Arte__ (__CREA__), a non-profit institution dedicated to the conservation and restoration of historical and cultural movable heritage (i.e., sculptures, paintings, and paper). Its conservators evaluated the condition of the choirbooks, which helped determine the book selected for this pilot project, and provided conservation treatment prior to digitization. I also thank the __Fundación Rozas-Botrán__, which manages social development projects in health and culture in Central America and Panama and of which CREA is a part.
 	- __Lucy González Muñoz__, CREA's lead conservator, who enthusiastically took on the project, and the two Gabys, who carried out the conservation treatment of the book prior to digitization.
 	- __Thelma Castillo__, Art and Culture consultant at the Rozas-Botrán Foundation, who put me in contact with CREA.
 
@@ -264,13 +264,13 @@ I am very thankful to the many Guatemalan conservators, archivists, musicologist
 	- __Alejandro Conde__, archivist, for his advice and support throughout the process.
 
 - The _Centro de Investigaciones Regionales de Mesoamérica_ (_CIRMA_), which holds microfilms of many of the AHAG's music holdings. Special thanks to:
-	- __Guisela Asensio Lueg__, CIRMA’s General Director, who provided me with the contact of the photographer who was hired for the project.
+	- __Guisela Asensio Lueg__, CIRMA’s General Director, who provided me with the contact of the photographer hired for the project.
  	- __Thelma Porres Morfín__, Director of CIRMA’s Historical Archive, who showed me the microfilms and provided valuable background information.
   	- __María de los Ángeles Ávila de León__, Photo Library Assistant, who generously offered her help during the digitization process.
 
 - __Omar Morales Abril__, musicologist, for his advice throughout the project and for providing the metadata (especially composer attributions) for the selected choirbook.
 - __Daniel Hernández-Salazar__ (artistic photographer), the professional photographer hired for this project. He assisted in setting up the camera and equipment during the first session and provided valuable guidance (e.g., including the verso number directly in the photograph using printed labels placed beside the color patch). As there was no digitization technician specialized in handling special collections, the manuscript handling and digitization were carried out by me under the guidance of several institutions listed below.
-- __José German Thomae Villela__ (father), for designing and constructing the book cradle according to requirements provided.
+- __José German Thomae Villela__ (father), for designing and constructing the book cradle according to the requirements provided.
 
 ## Digitization Part (External Institutions)
 I also thank the experts who provided advice before and during the digitization process. I received support from specialists at three institutions working on digitization projects involving special collections, cultural heritage materials, and music manuscripts:
@@ -288,7 +288,7 @@ I also thank the experts who provided advice before and during the digitization 
   - **Julia Craig-McFeely**, Project Manager.
   - **Lynda Sayce**, Lead Photographer.
 
-  For their extensive email support thoughout the project. Most aspects of the digitization process were based on their advice, including the use of a neutral background, the positioning of the color patch, and the decision not to use a platen.
+  For their extensive email support throughout the project. Many aspects of the digitization process were based on their advice, including the use of a neutral background, the positioning of the color patch, and the decision not to use a platen.
 
   Finally, thanks to **Professor Eun Park** and **colleagues from the _Preservation Management_ course** (McGill). Through this course, I gained valuable knowledge and connected with professionals at BAnQ and McGill Library. I am also grateful to my classmates, for their advice and encouragement.
 
@@ -303,18 +303,18 @@ I also thank the experts who provided advice before and during the digitization 
 
 - Regarding the _scoring up_ stage carried out in the _Measuring Polyphony (MP) Editor_, I would like to thank:
 	- **Karen Desmond** (PI), for supporting the interoperability between MuRET and the MP Editor
- 	- **Juliette Regimbal** (lead developer), for her help in implementing this interoperabiliy.
+ 	- **Juliette Regimbal** (lead developer), for her help in implementing this interoperability.
   	- **Craig Sapp**, for enabling the integration of the humlib dissonant filter
-  	- **Alex Morgan**, developer of the humlib's dissonant filter
+  	- **Alex Morgan**, developer of the humlib dissonant filter
  
-- I also acknowledge the developers of _mei-friend_, _Verovio_, and the _MEI Community_, as without whom this work would not have been possible. Special thanks to Werner Goebl for resolving an issue with the facsimile view of mensural voices accross page openings and to Anna Plaksin for her work on editorial markup display.
+- I also acknowledge the developers of _mei-friend_ (David Weigl and Werner Goebl), _Verovio_ (Laurent Pugin), and the _MEI Community_, without whom this work would not have been possible. Special thanks to Werner Goebl for resolving an issue with the facsimile view of mensural voices distributed across the book opening, and to Anna Plaksin for her work on editorial markup display.
 
 ## Editorial Correction and Final Corpus
 - **Geneviève Gates-Panneton**, for experimenting with the dissonant filter in the MP Editor
-- **Ellis Reyes**, for proofreading the transcription of the entire corpus and making decisions regarding ficta.
+- **Ellis Reyes**, for proofreading the transcriptions of the entire corpus and making editorial decisions regarding ficta.
 - **Peter Schubert** and **Julie E. Cumming**, for their advice on problematic passages
 	
 ## Supporters
-Supervisors **Julie E. Cumming** and **Ichiro Fujinaga**, for their invaluable guidance, and the **Fonds de recherche du Québec – Société et culture (FRQSC), doctoral gdrant (2019-B2Z-261749)** for funding this project.
+Supervisors **Julie E. Cumming** and **Ichiro Fujinaga**, for their invaluable guidance, and the **Fonds de recherche du Québec – Société et culture (FRQSC), doctoral grant (2019-B2Z-261749)** for funding this project.
 
-I also acknowledge the valuable contributions of: _Virginia Golcher_, _Ana Miriam López_, _Karla Lou_, _Anneliese Thomae_, _Emilio Rós Fábregas_, _Andrés Lou_, _Juan Pablo Pira Martínez_, _Ana Patricia Elías López de Thomae_, who supported me in various ways, ranging from sharing knowledge on conservation and musicological research in Guatemala to assisting with filming the digitization process.
+I also acknowledge the valuable contributions of: _Virginia Golcher_, _Ana Miriam López_, _Karla Lou_, _Anneliese Thomae_, _Emilio Rós Fábregas_, _Andrés Lou_, _Juan Pablo Pira Martínez_, and _Ana Patricia Elías López de Thomae_, who supported me in various ways, ranging from sharing knowledge on conservation and musicological research in Guatemala to assisting with filming the digitization process.
