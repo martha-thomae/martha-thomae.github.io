@@ -62,6 +62,8 @@ In the next section, you will find the [inventory list](./guatemala.md#inventory
 **Important note:** Please make sure that you are using Chrome or Firefox, _mei-friend_ does not work well with Safari.
 <img src="/assets/images/mei-friend-example_Mass11.4.2.png" alt="pieces as visualized in mei-friend" width="1000">
 
+**The transcriptions were fully revised by Ellis Reyes (PhD Candidate in Musicology, McGill University). He proofread the whole symbolic corpus, visualizing and listening to it using mei-friend, making any corrections necessary and adding the ficta.** The metadata of each file shows the names of the people (and software) involved in its creation, usually including the names of: Martha Eladia Thomae Elias (mine), Ellis Reyes (proofreader of the whole corpus and in charge of ficta accidentals), Geneviève Gates-Panneton (when involved), and ocasionally Julie E. Cumming and Peter Schubert (who acted as consultants in a few instances).
+
 ---------------
 
 ## Inventory List
@@ -294,8 +296,25 @@ I am so thankful to many the Guatemalan conservators, archivists, musicologist, 
 - __Daniel Hernández-Salazar__, professional photographer hired. Hernández Salazar is an artistic photographer. He helped setting up the camera parameters and equipment the first session and provided me with useful advice and guidance (e.g., the inclusion of the verso number in the photraph itself by printing the number of small pieces of paper placed at one side of the color patch was his suggestion). Given that there was no digitization technician with expertise on handling special collections (this is not a common profession in the country), the handling of the manuscript and digitization process was conducted by me under advice of several institutions included below.
 - __José German Thomae Villela__ (father), for the design and construction of the book craddle for the digitization of the books according to the list of requirements I provided him.
 
-## Digitization Part
+## Digitization Part (External Institutions)
+I also want to thank all the experts that provided advice prior to or during the digitization process. I had the support of experts from three institutions involved in digitization projects of special collections, cultural heritage material, and music manuscripts:
+- The **McGill Library’s Digital Initiatives**
+	- **Gregory Houston**, McGill’s New Media & Digitization Administrator of the Digital Initiatives Department, for his suggestion regarding websites where I could obtain archival supplies (e.g., snake weights) and suggestions about how to improve the book scanner in the future.
 
+- The **Bibliothèque et Archives nationales du Québec** (**BAnQ**). With special thanks to three BAnQ experts who receive dme on multiple occassions at teh BAnQ for consulting on conservation- and digitization-related questions.
+	- **Jessica Régimbald**, conservator at the direction du dépôt légal et de la conservation des collections patrimoniales. She advised me on how to handle the manuscript during digitization to avoid any damage, gave me a list of common conservation treatments prior to digitization, and provided me with information about platens for me to make an informed decision on whether to use them.
+	- **Marie-Chantal Anctil**, coordinator of the section de la reproduction et des ateliers audiovisuels and direction de la numérisation. She adviced me about the most important things to consider when building a do-it-yourself (DIY) book scanner.
+   - **Michel Legendre**, photographer of the direction de la numérisation and section de la reproduction. He advised me about the light selection, approving the lighting equipment chosen.
+
+	Legendre and Anctil were the ones who proposed the open-at-one-side cradle configuration for the book scanner to facilitate keeping the photographed page flat, which is the configuration that I ended up using.
+
+- The **Digital Image Archive of Medieval Music** (**DIAMM**). Special thanks to:
+  - **Julia Craig-McFeely**, project manager.
+  - **Lynda Sayce**, lead photographer.
+
+  For all the email exchanges during the project. Most of the things I did during digitization are based on their advice, including the use of a neutral background (the black felt sheet), the placement of the color patch in a stack of cardboard pieces (painted black to match the background) to keep it at the same level of the page, and the lack of a platen.
+
+  Finally, thanks to **Professor Eun Park** for her great _Preservation Management_ course at McGill, through which I learned a lot and I got in contact with the BAnQ and McGill Library personnel, and in which I met wonderful people that provided me with further advice and encouragement (thank you, colleagues).
 
 ## MIR Part
 - I am thankful to everyone behind _MuRET's development_, the software used for the _optical music recognition (OMR) part_. Special thanks to:
